@@ -1,0 +1,284 @@
+labels;elevation_(m);types;locality;authors_notes_and_publication_informations;potential_vegetations;vegetations_observed_with_Google_Earth  ;edaphic_complements;changes_since_sampling  ;vegetation_group_inferred
+E068;2100;old-soil;Mont_Zuquala;Olea,_Dodonaea,_Clutia;Fb/Wd;Fb/Wd;NA;No_significant_change;Fb/Wd-low/middle
+E069;2300;old-soil;Mont_Zuquala;Olea,_Dodonaea,_Clutia;Fb/Wd;Fb/Wd;NA;No_significant_change;Fb/Wd-low/middle
+E070;2500;old-soil;Mont_Zuquala;Myrsine;Fb/Wd;Fb/Wd;NA;No_significant_change;Fb/Wd-low/middle
+E071;2830;old-soil;Mont_Zuquala;Juniperus_forest;Fb/Wd;limit_between_E_and_Fb/Wd;NA;housing_installation_(preserved_forest_nearby);Fb/Wd-upper
+E073;2840;old-soil;Mont_Zuquala;Juniperus_forest;Fb/Wd;limit_between_E_and_Fb/Wd;NA;housing_installation_(preserved_forest_nearby);Fb/Wd-upper
+E074;2850;old-soil;Mont_Zuquala;Near_of_lake;Fb/Wd;high__limit__Fb/Wd;crater_lake_bank_of_high_altitude;No_significant_change;Fb/Wd-upper
+W_385;2750;old-soil;Mt_Wochacha;Highland_thicket;upper_limit_Fb/Wd;upper_limit_Fb/Wd;NA;No_significant_change;Fb/Wd-upper
+W_388;2900;old-soil;Mt_Wochacha;Mountain_dry_forest;limit_between_E_and_Fb/Wd;limit_between_E_and_Fb/Wd;NA;Crops_development_?;Fb/Wd-upper
+W_386;3050;old-soil;Mt_Wochacha;Ericaceae_area;limit_between_E_and_Fb/Wd;limit_between_E_and_Fb/Wd;NA;No_significant_change;Fb/Wd-upper
+Lac_Abhe;240;old-mud;Lac_Abhe;Sub-desert_steppe;limit_between_D_and_Zw;limit_between_D_and_Zw;bank_of_lake_and_short_river_fed_by_hot_spring;Lake_level_decrease;Bd-spring 1
+Awash;2022;old-mud;Awash_(Est_of_Addis);NA;Fb/Wd;Fb/Wd;Crops;No_significant_change;removed
+Melka_kontoure;2015;old-mud;Melka_Kontoure;Acacia_open_woodland;Fb/Wd;Fb/Wd;Awash_river;No_significant_change;Fb/Wd-river
+Eth_HADAR01;495;old-soil;Hadar;Riparian_Tamarix_forest;Bd;R;NA;No_significant_change;Bd-rtf
+Eth_HADAR02;505;old-soil;Hadar;Acacia/Commiphora_steppe;Bd;Bd;NA;No_significant_change;Bd-wb 1
+Eth_HADAR03;502;old-mud/soil?;Hadar;dry_Urda_stream;Bd;Bd;NA;No_significant_change;Bd-wb 2
+Eth_HADAR04;505;old-soil;Hadar;Riparian_Tamarix_forest;Bd;R;NA;no_more_forest_because_the_river_has_moved_;Bd-rtf
+Eth_HADAR05;506;old-mud/soil?;Hadar;Dry_abandonned_meander;Bd;limit_between_Bd_and_R;NA;No_significant_change;Bd-wb 2
+Eth_HADAR06;584;old-soil;Hadar;Steppe/grassland:_Acacia/Commiphora;Bd;Bd;NA;No_significant_change;Bd-wb 1
+Eth_HADAR07;575;old-mud;Gawani;Typha_swamp/hot_spring;limte_between_Bd_and_Z;Wz;Awash_river,_near_to_hot_spring;No_significant_change;Bd-spring 1
+E241;3406;old-soil;Arsi_Mountains;Ericaceae_belt;A;limit_between_E_and_A;NA;No_significant_change;A.E-e
+E242;3600;old-soil;Arsi_Mountains;Ericaceae_belt;A;A;NA;No_significant_change;A.E-e
+E243;2629;old-soil;Arsi_Mountains;Forest_limit;Fb/Wd;upper__limit__Fb/Wd;NA;No_significant_change;Fb/Wd-upper
+E244;3225;old-soil;Arsi_Mountains;Ericaceae_belt;A;limit_between_E_and_A;NA;No_significant_change;A.E-e
+E245;3334;old-soil;Arsi_Mountains;Juniper_forest_limit;A;limit_between_E_and_A;NA;No_significant_change;A.E-e
+E246;3880;old-soil;Bale_Mountains;"Swamp;_Alchemilla,_Lobelia,_Compositae";A;A;NA;No_significant_change;A.E-e
+E247;2400;old-soil;Bale_Mountains;Swamp_near_to_Schefflera_abyssinica_forest;upper_limit_Fa;limit_between_E_and_Fa;NA;No_significant_change;A.E-e
+E248;3100;old-soil;Alija_Besso;Juniper_forest_(limit_to_500m);A;limit_between_E_and_A;NA;No_significant_change;A.E-e
+E249;3050;old-soil;Alija_Besso;Near_to_Besso_lake,_Juniperus_forest_limit_at_500m;E;E;NA;No_significant_change;A.E-e
+E250;3050;old-soil;Tamasaa;Juniperus-Hagenia;E;limit_between_E_and_A;NA;Crops_development_?;A.E-e
+E251;3430;old-soil;Bale_Mountains;Ericaceae_moorland_(peaty_valley);A;A;NA;No_significant_change;A.E-e
+E252;3430;old-soil;Bale_Mountains;Ericaceae_moorland_(peaty_valley);A;A;NA;No_significant_change;A.E-e
+E253;3350;old-soil;Bale_Mountains;Ericaceae land dans vallé tourbeuse;A;A;NA;No_significant_change;A.E-e
+E254;1690;old-soil;Arsi_Mountains;Aquatic_margin/spring?;limit_between_W_and_We;We;groundwater_near_to_surface;Lake_level_variation_?;removed
+E255;2250;old-soil;Arsi Mountains;Forest;Fb/Wd;Fa_(Langano_Natural_Reserve);NA;No_significant_change;Fa-sc 1
+AML81.LS;1558;old-mud;Shala_Lake;Lake;limit_between_W_and_We;limit_between_W_and_We;Lake_Shala;No_significant_change;We-river
+AML81.LZ;1636;old-mud;Zawy_Lake;Lake;limit_between_W_and_We;limit_between_W_and_We;Lake_Zawy;No_significant_change;We-river
+AML81S33;1805;old-soil;Shala_Lake;NA;We;We;Crops;Crops_development_?;removed
+AML81S36;1875;old-soil;Shala_Lake;NA;We;We;Crops;Crops_development_?;removed
+AML81.VR;1600;old-mud;Bulbula_River;River;We;We;Bulbula_river_(between_Lake_Zawy_and_Lake_Abijatta);No_significant_change;We-river
+S136_3;2360;old-soil;Shashemane;NA;Fb/Wd;Fb/Wd;city_and crops;Crops_development;removed
+S136_4;2640;old-soil;Shashemane;NA;Fb/Wd;Fb/Wd;city;Crops_development;removed
+S136_5;2684;old-soil;Shashemane;NA;Fb/Wd;Fb/Wd;city_and crops;City_and_crops_development;removed
+S137_6;1971;old-soil;Shashemane;NA;Fb/Wd;limit_between_Fa_and_Fb/Wd;city;City_extention;removed
+S257_4;2339;old-soil;Shashemane;NA;Fb/Wd;limit_between_Fa_and_Fb/Wd;city;Big_city_extention;removed
+E047;2880;old-soil;Wenchi;Mountain_forest_of_lakefront;W;Limit_between_W,_Fb/Wb_and_E;crater_lake_bank_of_high_altitude;No_significant_change;Fb/Wd-upper
+E048;2890;old-soil;Wenchi;Mountain_forest_of_lakefront;W;Limit_between_W,_Fb/Wb_and_E;crater_lake_bank_of_high_altitude;No_significant_change;Fb/Wd-upper
+E049;2900;old-soil;Wenchi;Mountain_forest:_Juniperus,_Oleo;W;Limit_between_W,_Fb/Wb_and_E;crater_lake_bank_of_high_altitude;No_significant_change;Fb/Wd-upper
+E050;2950;old-soil;Wenchi;Mountain_forest:_Juniperus,_Oleo;W;high__limit__Fb/Wd;NA;No_significant_change;Fb/Wd-upper
+E051;3000;old-soil;Wenchi;Mountain_forest:_Ericaceae;Limit_between_W,_Fb/Wb_and_E;Limit_between_Fb/Wb_and_E;NA;No_significant_change;Fb/Wd-upper
+E052;3000;old-soil;Wenchi;Mountain_forest:_Ericaceae;Limit_between_W,_Fb/Wb_and_E;Limit_between_Fb/Wb_and_E;NA;No_significant_change;Fb/Wd-upper
+E053;3120;old-soil;Wenchi;Mountain_forest:_Hagenia,_Rosa;E;Limit_between_Fb/Wb_and_E;NA;No_significant_change;Fb/Wd-upper
+E054;3150;old-soil;Wenchi;Mountain_forest:_Hagenia,_Ericaceae;E;Limit_between_Fb/Wb_and_E;NA;No_significant_change;Fb/Wd-upper
+E055;3300;old-soil;Wenchi;Vilage_and_crops:_Ericaceae_area;Limit_between_Fb/Wb_and_E;Limit_between_Fb/Wb_and_E;NA;No_significant_change;Fb/Wd-upper
+E003;2242;old-mud;Dessie;NA;Fb/Wd;Fb/Wd_or_Wcd;cliff_river_of_hildland_(tributary_of_Awash_river);No_significant_change;Wcd-river 1
+E004;1545;old-soil;Bati-Limite_Rift_Valley_(rebord_du_plateau);NA;limit_between_Fb/Wb_and_Bd;limit_between_Fb/Wb_and_Bd;NA;No_significant_change;Bd-wb 3
+E005;1600;old-mud;Bati-5_km_apres_Bati;NA;Bd;Bd;cliff_river_of_hildland_(tributary_of_Awash_river);No_significant_change;Bd-river
+E006;1260;old-mud;Bati-4_km_avant_Bati;NA;Bd;Bd;cliff_river_of_hildland_(tributary_of_Awash_river);No_significant_change;Bd-river
+E007;665;old-soil;Eloa-5_km_à_l'Ouest_Eloa;NA;Bd;Bd;NA;No_significant_change;Bd-wb 2
+E008;620;old-mud/soil?;Ledi-Croisement_piste_riviere;NA;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E009;544;old-soil;Mille-Entre_Mendura_et_Mille;NA;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E010;537;old-soil;Hadar-L_55_N;Sub-desert_steppe;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E011;515;old-mud/soil?;Hadar-Kada-Lit_d_oued;Sub-desert_steppe;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E012;500;old-soil;Hadar-Camp_73-S1;Riparian_forest;Bd;R;NA;No_significant_change;Bd-rtf
+E013;500;old-soil;Hadar-Camp_73-S2;Riparian_forest;Bd;R;NA;No_significant_change;Bd-rtf
+E014;486;old-soil;Hadar-Camp_73-Kadamoumou;Sub-desert_steppe;Bd;R;NA;No_significant_change;Bd-rtf
+E015;506;old-soil;Hadar-Awash_sud_(Sf_transect_AV_1);Riparian_forest;Bd;R;NA;No_significant_change;Bd-rtf
+E016;488;old-soil;Hadar-AS-S2;Sub-desert_steppe;Bd;R;NA;No_significant_change;Bd-rtf
+E017;506;old-soil;Hadar-Awash_sud_(Se_transect_AV_1);Riparian_forest;Bd;R;NA;No_significant_change;Bd-rtf
+E018;498;old-soil;Hadar-Awash_sud_(S3_transect_AV_2);Riparian_forest;Bd;R;NA;No_significant_change;Bd-rtf
+E019;504;old-soil;Hadar-Awash_sud_(Sd_transect_AV_1);Limit_of_riparian_forest/sub-desert_steppe;Bd;R;NA;No_significant_change;Bd-rtf
+E020;499;old-soil;Hadar-Awash_sud_(S2_transect_AV_2);Limit_of_riparian_forest/sub-desert_steppe;Bd;R;NA;No_significant_change;Bd-rtf
+E021;491;old-soil;Hadar-AS-S1;Sub-desert_steppe;Bd;limit_between_Bd_and_R;NA;No_significant_change;Bd-wb 2
+E022;498;old-soil;Hadar-Awash_sud_(S1_transect_AV_2);Sub-desert_steppe;Bd;R;NA;No_significant_change;Bd-wb 1
+E023;503;old-soil;Hadar-Awash_sud_(Sc_transect_AV_1);Sub-desert_steppe;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E024;504;old-soil;Hadar-Awash_sud_(Sb_transect_AV_1);Sub-desert_steppe;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E025;509;old-soil;Hadar-Hadar_4.398.;Sub-desert_steppe;Bd;Bd_(near_to_R_:_300m)_with_Tamarix_(pollen>40%);NA;No_significant_change;Bd-rtf
+E026;516;old-soil;Hadar-Awash_sud_(Sa_transect_AV_1);Sub-desert_steppe;Bd;Bd;NA;No_significant_change;Bd-wb 1
+E268;1690;old-soil;Wadera;Acacia,_Combretum_and_Terminalia open_forest;Bd;Fb/Wb;NA;Deforestation?;removed
+E269;1700;old-soil;Wadera;Acacia,_Combretum_and_Terminalia open_forest;Bd;Bd;NA;Deforestation?;removed
+E270;1900;old-soil;Wadera;Jemjem_mixed_rainforest:_Podocarpus;Fa;Fa;NA;Deforestation?;Fa-sc 1
+E271;2100;old-soil;Wadera;Jemjem_mixed_rainforest:_Podocarpus;Fa;Fa;NA;No_significant_change;Fa-sc 2
+E272;2150;old-soil;Wadera;Jemjem_mixed_rainforest:_Prunus,_Olea_capensis,_Croton,_Maesa,_Polyscias ;Bd;Fb/Wd_or_Fa_(island_in_Bd);NA;No_significant_change;Fa-sc 2
+E273;2150;old-soil;Wadera;Jemjem_mixed_rainforest:_Prunus,_Olea_capensis,_Croton,_Maesa,_Polyscias ;Fa;Fa;NA;Deforestation;Fa-sc 2
+E274;2220;old-soil;Wadera;Jemjem_mixed_rainforest:_Prunus,_Olea_capensis,_Croton,_Maesa,_Polyscias ;Fa;Fa;NA;No_significant_change;Fa-sc 2
+E275;2340;old-soil;Wadera;Jemjem_mixed_rainforest:_Prunus,_Olea_capensis,_Croton,_Maesa,_Polyscias,_Phonix ;Fa;Fa;NA;Deforestation?;Fa-sc 2
+E276;2464;old-soil;Wadera;Jemjem_mixed_rainforest:_Hagenia,_Schefflera;Fa;Fa;NA;Deforestation?;Fa-upper
+E277;2500;old-soil;Wadera;Jemjem_mixed_rainforest:_Hagenia;Fa;Fa;NA;Deforestation;Fa-upper
+E278;2650;old-soil;Wadera;Upper_forest_limit:_Jemjem,_Hagenia;Fa;Fa;NA;No_significant_change;Fa-upper
+E279;1820;old-soil;Wadera;Acacia_open_forest_(edge_of_Magada_forest);Fb/Wd;limit_between_Fa_and_Fb/Wd;NA;No_significant_change;Fa-sc 1
+E280;1900;old-soil;Wadera;Magada_forest:_Podocarpus,_Croton,_Calpurnina;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E281;1900;old-soil;Wadera;Magada_forest:_Podocarpus,_Croton,_Calpurnina;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E282;2900;old-soil;Wadera;Legassa_forest:_Schefflera,_Hagenia,_Galiniera,_Brucea;limit_between_E_and_Fb/Wd;Fa_or_Fb/Wd;NA;No_significant_change;Fa-upper
+E283;1320;old-mud;Wadera;Acacia_open_forest_(3 km_to_Lake Abaya);Wcd;Wcd;NA;No_significant_change;Wcd-river 1
+Omo_CR100_8;360;old-mud;Turkana-Delta_de_Omo;NA;W;X;delta_of_Turkana_lake_with_hot_spring;No_significant_change;Bd-spring 1
+DW_16;541;old-mud;Denchiya_(affluent_de_Omo);NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_4;870;old-mud;Gojeb_(affluent_de_Omo);Open_vegetation;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_1;1050;old-mud;Omo;Open_vegetation;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_10;632;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_14;597;old-mud;Omo_apres_Zigna;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_15;503;old-mud;Omo_avant_Denchiya;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_18;440;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_2;1040;old-mud;Omo;Open_vegetation;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_2bis;845;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_3;846;old-mud;Omo_avant_affluent_Gojeb;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_5;828;old-mud;Omo_apres_affluent_Gojeb;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_6;716;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_7;715;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+DW_8;666;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_1;1090;old-mud;Omo;Half-open_vegetation;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_2;940;old-mud;Omo;Open_vegetation;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_3;885;old-mud;Omo;Crevasse_foret;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_5;760;old-mud;Omo;Half-open_vegetation;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_6;840;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_7;702;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_8;656;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+NG_9;608;old-mud;Omo;NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+RB_1;372;old-mud;Omo;NA;X_surrounded_by_Wcd;R_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+RB_10;402;old-mud;Omo;NA;S_surrounded_by_Wcd;R_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+RB_11;394;old-mud;Omo;NA;S_surrounded_by_Wcd;R_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+RB_2;388;old-mud;Omo;NA;X_surrounded_by_Wcd;R_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+RB_4;378;old-mud;Omo;NA;X_surrounded_by_Wcd;R_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+RB_676;370;old-mud;Omo;NA;X_surrounded_by_Wcd;X_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+RB_7;381;old-mud;Omo;NA;X_surrounded_by_Wcd;R_surrounded_by_Wcd;Omo_river;No_significant_change;Wcd-river 2
+DW_13;720;old-mud;Zigna_(affluent_de_Omo);NA;Wcd;Wcd;Omo_river;No_significant_change;Wcd-river 1
+Awash_350;407;old-mud;Awash;NA;limit_between_Bd_and_S;S_or_W;Awash_river;No_significant_change;S-river
+Awash_352;1600;old-mud;Awash;NA;limit_between_W_and_We;limit_between_W_and_We;Lake_Koka;No_significant_change;We-river
+Awash_547_bis;1226;old-mud;Awash;NA;We;We;Awash_river;No_significant_change;We-river
+Awash_574;376;old-mud;Awash;NA;limit_between_S_and_D;S;Awash_river;No_significant_change;S-river
+Awash_575;374;old-mud;Awash;NA;limit_between_S_and_D;S;Awash_river;No_significant_change;S-river
+Awash_582;361;old-mud;Awash;NA;D;limit_between_S_and_D;Awash_river;No_significant_change;S-river
+Awash_A_Sued;1256;old-mud;Awash;NA;We;We;Awash_river;No_significant_change;We-river
+Awash_A_Stat;888;old-mud;Awash;NA;Bd;Bd_(50_km_downstream_of_We);Awash_river;No_significant_change;We-river
+Awash_C_L;447;old-mud;Awash;NA;Bd;limte_between_Bd_and_S;Awash_river;No_significant_change;Bd-river
+Awash_G_604;560;old-mud;Awash;NA;Z;limte_between_Bd_and_Z;Awash_river;No_significant_change;Bd-river
+Awash_G_80;560;old-mud;Awash;NA;Z;limte_between_Bd_and_Z;Awash_river;No_significant_change;Bd-river
+Awash_Gba;2006;old-mud;Awash;NA;Fb/Wd;Fb/Wd;Awash_river;No_significant_change;Fb/Wd-river
+Awash_Gomb;2005;old-mud;Awash;NA;Fb/Wd;Fb/Wd;Awash_river;No_significant_change;Fb/Wd-river
+Awash_H_742;496;old-mud;Awash;NA;Bd;R_in_Bd_but_mud_of_Kada_Hadar_that_crosses_S;Awash_river;No_significant_change;S-river
+Awash_H_C74;505;old-mud;Awash;NA;Bd;R_in_Bd_but_mud_of_Kada_Gona_that_crosses_S;Awash_river;No_significant_change;S-river
+Awash_H_C80;505;old-mud;Awash;NA;Bd;R_in_Bd;Awash_river;No_significant_change;Bd-river
+Awash_H_S4;487;old-mud;Awash;NA;Bd;R_in_Bd;Awash_river;No_significant_change;Bd-river
+Awash_H_V1;505;old-mud;Awash;NA;Bd;R;NA;No_significant_change;Bd-river
+Awash_Hgf;555;old-mud;Awash;NA;Bd;R_in_Bd;Awash_river;No_significant_change;Bd-river
+Awash_K_80;1592;old-mud;Awash;NA;limit_between_W_and_We;limit_between_W_and_We;Lake_Koka;No_significant_change;We-river
+Awash_L_A549;236;old-mud;Awash;NA;limit_between_D_and_Zw_and_Bd;limit_between_D_and_Zw;bank_of_lake_fed_by_hot_spring;No_significant_change;Bd-spring 1
+Awash_M_S;760;old-mud;Awash;NA;Bd;Bd_(50_km_downstream_of_We);Awash_river;No_significant_change;We-river
+Awash_MK_G1;1980;old-mud;Awash;NA;Fb/Wd;Fb/Wd;Awash_river;No_significant_change;Fb/Wd-river
+Awash_MK_G2;1980;old-mud;Awash;NA;Fb/Wd;Fb/Wd;Awash_river;No_significant_change;Fb/Wd-river
+Awash_T_H;1347;old-mud;Awash;NA;We;We;Awash_river;No_significant_change;We-river
+Awash_Tj;2070;old-mud;Awash;NA;Fb/Wd;Fb/Wd;Awash_river;No_significant_change;Fb/Wd-river
+BB17.01;1379;new-soil;Welenchede;Acacia_bushland;We_(near_to_Bd);We_(near_to_Bd);NA;No_significant_change;Bd-wb 3
+BB17.02;957;new-soil;Awash_National_Park;Acacia_open_woodland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.03;962;new-soil;Awash_National_Park;Acacia_woodland_with_fresh_seasonnal_water_body;Bd;R_(island_of_200m_in_Bd);seasonnal_water_body;No_significant_change;Bd-wb 3
+BB17.04;882;new-soil;Awash_National_Park;Acacia_woodland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.05;775;new-soil;Awash_National_Park;limit_between_Bd_and_Palm_grove;Bd;Bd;Limite_Hot_spring_Palm_grove;No_significant_change;Bd-wb 3
+BB17.06;963;new-soil;Brod_du_lac_Basaka;Pioneer_riparian_vegetation;Bd;Bd;Pioneer_vegetation_on_old_lava_flow;No_significant_change;removed
+BB17.07;969;new-soil;Coulé_de_basate_à_coté_du_lac_Basaka;Pioneer_grove;Bd;Bd;Pioneer_vegetation_on_old_lava_flow;No_significant_change;removed
+BB17.08;1115;new-soil;Point_d'eau_de_Tituti;Fresh water pond semi-perenne (9 mois sur 12);Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.09;786;new-soil;Doho_Shrubland;Shrubland;Bd;limit_between_Bd_and_R;limit_hot_spring_forest;No_significant_change;Bd-spring 1
+BB17.10;760;new-soil;Doho_Spring_Forest;Hot_spring_forest;Bd;R;hot_spring_forest;No_significant_change;Bd-spring 1
+BB17.11;761;new-soil;Doho_lodge;Hot_spring;Bd;R;hot_spring_water_pond_;No_significant_change;Bd-spring 1
+BB17.12;756;new-soil;Awash_River_Jeleba;Acacia_nilotica_forest_flooded;Bd;limit_between_R_and_Bd;NA;No_significant_change;Bd-wb 3
+BB17.13;815;new-soil;Bilen_sur_l'horst;Acacia-Commiphora_bushland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.14;773;new-soil;Bilen_sur_la_pente;Acacia-Commiphora_woodland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.15;767;new-soil;Bilen_au_pied_du_graben;NA;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.16;738;new-soil;Bilen_dans_le_graben;Tall_grassland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.17;732;new-soil;Bilen_hot_spring;Typha-Cyperaceae/Hot_spring;Bd;Bd;water_pond_fed_by_hot_spring;No_significant_change;Bd-spring 1
+BB17.18;566;new-soil;Metaka_fresh_water;Fresh_water ;limte_between_Bd_and_Z;Bd;hot_spring_swamp;No_significant_change;Bd-spring 1
+BB17.19;590;new-soil;Metaka_rock_clif;Short_Acacia_mellifera_woodland;limte_between_Bd_and_Z;Bd;100m_to_spring_swamp;No_significant_change;Bd-spring 1
+BB17.20;570;new-mud;Bouri_in_Awash_flooded_plain;Grassland;Bd;D_or_S;Awash_flooded_plain;No_significant_change;S-river
+BB17.21;571;new-mud;Bouri_near_edge_of_Awash_river;NA;Bd;D_or_S;Awash_flooded_plain;No_significant_change;S-river
+BB17.23;560;new-soil;Awash_river_à_l'entrée_du_lake_Yardi;Degraded_Ficus-Acacia_forest;Z;limit_between_R_and_Bd;Very_degraded__riparian_Acacia_forest;No_significant_change;removed
+BB17.24;553;new-mud;Dura;Acacia-Balanites-Cissus_bushland;Bd;S_or_Bd;NA;No_significant_change;Bd-wb 2
+BB17.25;547;new-soil;Near_Woranso;Grassland;Bd;S_or_Bd;NA;No_significant_change;Bd-wb 2
+BB17.26;503;new-soil;Worauso_river_bank;Acacia_woodland;Bd;Bd;NA;No_significant_change;Bd-wb 1
+BB17.27;519;new-soil;Road_to_Gewane_(7_km_de_Mille);Desert_steppe;Bd;S_or_Bd;NA;No_significant_change;Bd-wb 2
+BB17.28;581;new-soil;Road_to_Gewane_(35_km_de_Mille);No_grass_shrubland ;Bd;Bd;NA;No_significant_change;Bd-wb 2
+BB17.29;617;new-soil;Road_to_Gewane_(35_km_de_Mille);Short_grass_shrubland/woodland;Bd;Bd;NA;No_significant_change;Bd-wb 2
+BB17.30;783;new-soil;Road_to_Gewane_(45_km_de_Mille);Commiphora_shrubland;Bd;Bd;NA;No_significant_change;Bd-wb 2
+BB17.31;832;new-soil;Road_to_Gewane_(55_km_de_Mille);Grassland;Bd;Bd;NA;No_significant_change;Bd-wb 2
+BB17.32;811;new-soil;Road_to_Gewane_(55_km_de_Mille);Capparaceae_bushland;Bd;Bd;NA;No_significant_change;Bd-wb 2
+BB17.33;574;new-soil;Metaka;Tamarix_bushland;limte_between_Bd_and_Z;Bd;hot_spring_swamp;No_significant_change;Bd-spring 1
+BB17.34;821;new-soil;15_km_au_Sud_d'Edamaytu;Commiphora_bushland/grassland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.35;842;new-soil;30_km_au_Sud_d'Edamaytu;Bushland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.36;882;new-soil;Road_to_lake_Hafele;Commiphora_bushland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.37;733;new-soil;Road_to_lake_Hafele;Commiphora_bushland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.38;740;new-soil;Lake_Hafele;Acacia-Commiphora_bushland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.39;725;new-soil;Lake_Hafele;Riparian_forest;Bd;limit_between_R_and_Bd;NA;No_significant_change;Bd-wb 3
+BB17.40;764;new-soil;Road_to_lake_Hafele;Crevasse_foret;Bd;Bd;NA;No_significant_change;Bd-wb 3
+BB17.41;1309;new-soil;Caldera_near_Metahara;Pioneer_vegetation;Bd;Fb/Wd_?;Pioneer_vegetation_on_old_lava_flow;No_significant_change;removed
+DB09.5;1967;new-soil;Coffee_plantattion;Coffee_forest;Fb/Wd;Fa;NA;No_significant_change;Fa-sc 2
+DB09.12;1901;new-soil;Magada_forest;Podocarpus;Fa;Fa;NA;No_significant_change;Fa-sc 1
+DB09.13;1970;new-soil;Magada_forest;Podocarpus;Fa;Fa;NA;No_significant_change;Fa-sc 1
+DB09.16;1600;new-soil;39km_S_of_Agere_Mariam;Dodonea_woodland;Bd;Fb/Wd_(island_in_Bd);NA;No_significant_change;Fb/Wd-low/middle
+DB09.21;1980;new-soil;Microwave_station;Mountain_evergreen_woodland;Fb/Wd;Fb/Wd;NA;No_significant_change;Fb/Wd-low/middle
+DB09.30;1300;new-soil;Mega_escarpment;Dracena;Bd;limit_between_wd_and_Bd_(bushland_in_photo);groundwater_near_to_surface;No_significant_change;Bd-wb 3
+DB09.31;1450;new-soil;Mega_escarpment;Euclea_woodland;Bd;wd;groundwater_near_to_surface;No_significant_change;Bd-wgc
+DB09.32;1514;new-soil;Road_to_Mega_escarpment;Commiphora_woodland;Bd;wd;groundwater_near_to_surface;No_significant_change;Bd-wgc
+DB09.35;1950;new-soil;9km_W_of_Yabello;Juniper_forest_disturbed;Fb/Wd;Fb/Wd;NA;No_significant_change;Fb/Wd-low/middle
+DB09.38;945;new-soil;Road_to_Konso;Low_Acacia_woodland:_Adenium;Bd;Bd;NA;No_significant_change;Bd-wb 3
+DB09.39;850;new-soil;Road_to_Konso;Tall_grassland;Bd;limit_between_Bd_and_R_and_wd;NA;No_significant_change;Bd-wb 3
+DB09.41;1208;new-soil;Nechisar_ground_forest;Euclea,_Diospyros,_Tamarindus;Bd;Wcd_(edaphic);NA;No_significant_change;removed
+DB09.47;3000;new-soil;Nagassa_Chaka_forest;Afromontane_forest;limit_between_E_and_Fb/Wd;Fa_or_Fb/Wd;near_crops;No_significant_change;Fa-upper
+DB09.50;1670;new-soil;Road_to_Chencha;Terminalia-Combretum_woodland;Wcd;Wcd;NA;No_significant_change;Wcd
+DB09.1;2180;new-soil;Munesa_forest;Juniper_forest;Fb/Wd;Fa_(Langano_Natural_Reserve);NA;No_significant_change;Fa-sc 1
+DB09.2;1641;new-soil;Shalla_Nat.Park;Acacia_savanna;We;We;groundwater_near_to_surface;No_significant_change;removed
+DB09.4;1854;new-soil;Karasoditi-coffee_forest;Coffee_forest;Fb/Wd;limit_between_Fb/Wd,_Bd_and_Fa;NA;No_significant_change;removed
+DB09.6;2534;new-soil;S_of_Agere_Maryam_-_Bamboo;Arundinaria_alpina;Fb/Wd;Fb/Wd;Crops;No_significant_change;removed
+DB09.15;1750;new-soil;Before_Finchua;NA;Bd;limit_between_Fb/Wd,_Bd_and_Fa;NA;No_significant_change;Fa-sc 1
+DB09.17;1540;new-soil;15km_N_of_Yavello;Commiphora_woodland;Bd;Bd;NA;No_significant_change;Bd-wb 3
+DB09.48;2970;new-soil;Nagassa_Chaka_forest;Afromontane_forest;limit_between_E_and_Fb/Wd;Fa_or_Fb/Wd;near_crops;No_significant_change;Fa-upper
+DB09.49;2956;new-soil;Nagassa_Chaka_forest;Short_grassland_grazed_on_west_side_of_Nagassa_forest;Fb/Wd;Fb/Wd;Crops;No_significant_change;removed
+E200;4000;old-soil;Mont_Bale:_Sanetti_plateau ;Afro_alpine_zone;A;A;NA;No_significant_change;A.E-e
+E201;3070;old-soil;Mont_Bale:_Harrena_foret;Hypercium_zone;E;Fa;NA;No_significant_change;Fa-upper
+E202;2740;old-soil;Mont_Bale:_Harrena_foret;Hagenia,_Hypercium;Fa;Fa;NA;No_significant_change;Fa-upper
+E203;2600;old-soil;Mont_Bale:_Harrena_foret;Bombous_area:_Hagenia_Schefflera;Fa;Fa;NA;No_significant_change;Fa-upper
+E204;2300;old-soil;Mont_Bale:_Harrena_foret;Schefflera,_Aningeria,_Croton,_Olea,;Fa;Fa;NA;No_significant_change;Fa-upper
+E205;2100;old-soil;Mont_Bale:_Harrena_foret;Aningeria,_Schefflera,_Syzygium;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E206;1870;old-soil;Mont_Bale:_Harrena_foret;Aningeria,_Olea,_Schefflera,_Croton;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E207;1700;old-soil;Mont_Bale:_Harrena_foret;Olea,_Ocotea;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E208;1600;old-soil;Mont_Bale:_Harrena_foret;Aningeria,_Podocarpus,_Olea,_Ocotea;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E209;1440;old-soil;Mont_Bale:_Harrena_foret;Podocarpus,_Filicum;Bd;Fa;NA;No_significant_change;Fa-sc 1
+E213;450;old-soil;South_West_of_Ethiopia;Anogeissus_woodland;Wcd;Wcd;NA;Crops_development_?;Wcd
+E214;475;old-soil;South_West_of_Ethiopia;Anogeissus_woodland;Wcd;Wcd;NA;Crops_development_?;Wcd
+E228;484;old-soil;South_West_of_Ethiopia;Anogeissus_woodland;Wcd;Wcd;NA;No_significant_change;Wcd
+E227;543;old-soil;South_West_of_Ethiopia;Anogeissus_woodland;Fe;limit_between_Wcd_and_Fe;NA;No_significant_change;Wcd
+E229;506;old-soil;South_West_of_Ethiopia;Terminalia_woodland;Fe;limit_between_Wcd_and_Fe;NA;Forest_decrease_(dam);Wcd
+E230;500;old-soil;South_West_of_Ethiopia;Lowland_forest_near_clearing_with_swamp ;Wcd;limit_between_Wcd_and_Fe;NA;Forest_decrease_(dam);Wcd
+E231;500;old-soil;South_West_of_Ethiopia;Lowland_forest_near_clearing_with_swamp ;Wcd;limit_between_Wcd_and_Fe;NA;Forest_decrease_(dam);Wcd
+E215;500;old-soil;South_West_of_Ethiopia;NA;Wcd;limit_between_Wcd_and_Fe;NA;No_significant_change;Wcd
+E223;1020;old-soil;South_West_of_Ethiopia;Intermediate_forest_in_the_Bebeka_coffee_plantation;Fe;limit_between_Fa,_Wcd_and_Fe;NA;No_significant_change;Fa-w
+E212;1050;old-soil;South_West_of_Ethiopia;Pterocarpus-Lonchocarpus_woodland;Fe;Wcd;NA;No_significant_change;Wcd
+E217;1200;old-soil;South_West_of_Ethiopia;Intermediate_forest;Fe;limit_between_Fa_and_Fe;NA;No_significant_change;Fa-w
+E210;1250;old-soil;South_West_of_Ethiopia;Intermediate_forest_near_river ;Fe_(surrounded_by_Fa);Fe_(surrounded_by_Fa);NA;No_significant_change;Fa-w
+E224;1350;old-soil;South_West_of_Ethiopia;Intermediate_forest_with_Aningeria;Fe_(surrounded_by_Fa);Fe_(surrounded_by_Fa);NA;No_significant_change;Fa-w
+E222;1450;old-soil;South_West_of_Ethiopia;Intermediate_forest_with_Aningeria;Wcd;limit_between_Fa,_Wcd_and_Fe;NA;Crops_development_?;Fa-w
+E226;1500;old-soil;South_West_of_Ethiopia;Aningeria_forest;limit_between_Fa_and_Fe;Fe;NA;Crops_development;removed
+E221;1675;old-soil;South_West_of_Ethiopia;Rain_forest_with_Aningeria;Fa;Fa;NA;Crops_development_and_city_extention;Fa-w
+E232;1700;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest;Wcd_(surrounded_by_Fa);Fa;NA;No_significant_change;Fa-w
+E211;1750;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest_with_Aningeria;Fa;Fa;NA;No_significant_change;Fa-w
+E233;1850;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E216;1850;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest;Fa;Fa;NA;Crops_development_?;Fa-w
+E220;1950;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest_with_Aningeria_near_stream_with_Cyathea;Fa;Fa;NA;Crops_development;Fa-w
+E235;2500;old-soil;South_West_of_Ethiopia;Degraded_afromontain_rain_forest_with_Prunus;Fa;Fa;NA;No_significant_change;Fa-sc 1
+E219;2100;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest_with_Ilex_and_more_Cyathea;Fa;Fa;NA;Crops_development;Fa-w
+E218;2200;old-soil;South_West_of_Ethiopia;Afromontain_rain_forest_with_Schefflera_and_Cyathea;Fa;Fa;NA;Crops_development_?;Fa-w
+E234;2740;old-soil;South_West_of_Ethiopia;High_altitude_afromontane_forest_with_much_bamboo;Fa;limit_between_Fa_and_Wcd;NA;No_significant_change;removed
+E095;1600;old-soil;Lac_Langeno;Lake_margin_foret;Fb/Wd;Fa_(Langano_Natural_Reserve);NA;No_significant_change;Fa-sc 1
+E094;1620;old-soil;Lac_Shalla;Croton_Celtis/Hot_spring_?;limit_between_We_and_W;limit_between_We_and_W;Hot_Spring;No_significant_change;removed
+E093;1600;old-mud;Shalla_lake;Forest/Hot_spring?/Groundwater_forest?;limit_between_W_and_We;limit_between_W_and_We;Shalla_lake;No_significant_change;We-river
+E085;1570;old-soil;Lac_Shalla;Wooded_Savanna/Hot_spring?/Groundwater_woodland?;limit_between_We_and_W;limit_between_We_and_W;Hot_spring;No_significant_change;removed
+Y96.40;825;old-soil;Yemen;NA;D-xs;D-xs;NA;NA;S-xs
+Y96.03;890;old-soil;Yemen;NA;D-xs;D-xs;NA;NA;S-xs
+Y96.08;880;old-soil;Yemen;NA;D-xs;D-xs;NA;NA;S-xs
+Y96.138;1070;old-soil;Yemen;NA;D-xs;D-xs;NA;NA;S-xs
+Y96.139;1120;old-soil;Yemen;NA;D-xs;D-xs;NA;NA;S-xs
+Y96.140;1330;old-soil;Yemen;NA;D-xs;D-xs;NA;NA;S-xs
+RaK.01;145;old-soil;Saudi_Arabia;NA;D-xds;D-xds;NA;NA;S-xds
+RaK.02;350;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+RaK.03;460;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+RaK.04;540;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+Rak.08;800;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+RaK.05;600;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+RaK.07;720;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+RaK.06;650;old-soil;Saudi_Arabia;NA;D;D;NA;NA;D
+FB_K3Sa;10;old-soil;Qatar;NA;D-xds;D-xds;NA;NA;S-xds
+M_7a;10;old-soil;Qatar;NA;D-xds;D-xds;NA;NA;S-xds
+M_104a;15;old-soil;Qatar;NA;D-xds;D-xds;NA;NA;S-xds
+DB11.74;983;old-soil;Manyara_N.P.;Forest_fringing_a_perennial_spring-fed_stream;Bd;limit_between_Bd_and_wd;near_river_fed_by_spring;No_significant_change;Bd-wgc
+DB11.73;967;old-soil;Manyara_N.P.;Groundwater_woodland_with_Acacia_xanthophloea,_Rauvolfia_caffra,_and_thick_unidentified_bushes;wd;wd;groundwater_near_to_surface;No_significant_change;Bd-wgc
+DB11.72;958;old-soil;Manyara_N.P.,_near_Hippo_Pool;Swamp_herbage_with_tall_Typha,_Cyperaceae_dominant,_and_some_grasses;wd;wd;swamp_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.71;1010;old-soil;Manyara_N.P.;Swamp_herbage_enclosed_within_the_groundwater_forest,_surrounded_by_Phoenix,_Ficus,_Cyperuss,_and_grasses._No_Typha;wd;wd;groundwater_forest;No_significant_change;Bd-wgc
+DB11.70;998;old-soil;Manyara_N.P.,_3_km_after_entrance_gate;Groundwater_forest_with_tall_evergreen_trees_of_Ficus,_Rauvolfia,_Tamarindus,_Kigelia_africana,_Phoenix;wd;wd;groundwater_near_to_surface;No_significant_change;Bd-wgc
+DB11.69;989;old-soil;Manyara_N.P.,_1_km_after_entrance_gate;Groundwater_forest_with_tall_evergreen_trees_of_Ficus,_Rauvolfia,_Tamarindus,_Kigelia_africana,_Phoenix;wd;wd;groundwater_near_to_surface;No_significant_change;Bd-wgc
+DB11.62;1234;old-soil;Hadzabe_territory_-Ukumako_river;Spring-fed_river,_riparian_very_open_woodland_with_Adansonia,_Acacia,_Sesbania,_Hyphaene,_Typha,_Cyperaceae;Bd;Bd;river_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.61;1212;old-soil;Hadzabe_territory_-Ukumako_river;Spring-fed_river,_riparian_woodland_with_Adansonia,_Tamarindus,_Sclerocarya,_Commiphora,_Sesbania,_Hyphaene,_Euphorbia_tirucali,_Typha,_Cyperaceae;Bd;R;river_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.59B;1050;old-soil;Gorofani;Groundwater_forest,_very_disturbed_by_cattle,_Ficus,_Tamarindus,_Cordia,_Commiphora;Bd;wd;groundwater_near_to_surface;No_significant_change;Bd-wgc
+DB11.59A;1026;old-soil;Kisima_Ngeda;Typha_swamp;Bd;Bd;swamp_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.58;1026;old-soil;Kisima_Ngeda;Ecotone_between_the_Typha_swamp_and_the_groundwater_woodland;Bd;Bd;woodland/swamp_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.57;1037;old-soil;Kisima_Ngeda;Woodland_with_Acacia_xanthophloea_dominant_and_Hyphaene_palm._Rauvolfia,_Balanites,_and_abundant_grasses_and_Cyperaceae;Bd;Bd;woodland_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.56;1037;old-soil;Kisima_Ngeda;Woodland_with_Hyphaene_dominant_and_Acacia_xanthophloea._No_grasses;Bd;Bd;woodland_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.55;1041;old-soil;Kisima_Ngeda;Woodland_with_trees_of_Hyphaene_palm_and_Acacia_xanthophloea,_Balanites,_and_tall_grasses_and_Cyperaceae;Bd;Bd;woodland_fed_by_spring;No_significant_change;Bd-spring 2
+DB11.54;1029;old-soil;Kisima_Ngeda;Woodland_with_trees_of_Hyphaene_palm_and_Acacia_xanthophloea,_Balanites,_tall_grasses_and_Cyperaceae;Bd;Bd;woodland_fed_by_spring;No_significant_change;Bd-spring 2

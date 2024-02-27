@@ -1,0 +1,26 @@
+{
+    "id": "278FF591",
+    "path": "~/Documents/2_Travaux_scientifiques_en_cours/2024_Scores_pollen_(_Bourel_et_al)/R_vegetation_score_article/src/Functions/Import_data_v_score.R",
+    "project_path": "src/Functions/Import_data_v_score.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1708962811598.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "42,0",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1709026779,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1709026779740,
+    "read_only": false,
+    "read_only_alternatives": []
+}
