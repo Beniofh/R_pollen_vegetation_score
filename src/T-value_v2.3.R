@@ -65,89 +65,89 @@ colnames(T_val)<-levGroupe
 
 #debut de la boucle #####################
 for (i in levGroupe){
-print(i)
-
-### Calcule score pour T-value positive
-#posi_max -> valeur de T-value maximal en positif
-posi_max<-max(T_val[i][T_val[i]>0,])
-#ppxx -> la valeur de T-value egale a xx% de la valure positive max
-pp10<-10*posi_max/100
-pp20<-20*posi_max/100
-pp30<-30*posi_max/100
-pp40<-40*posi_max/100
-pp50<-50*posi_max/100
-pp60<-60*posi_max/100
-pp70<-70*posi_max/100
-pp80<-80*posi_max/100
-pp90<-90*posi_max/100
-#Tval_ppXX -> taxon avec une T-value entre XX% et XX+10% 
-Tval_pp00<-taxon_as[T_val[i]>=0 & T_val[i]<pp10 ,]
-Tval_pp10<-taxon_as[T_val[i]>=pp10 & T_val[i]<pp20 ,]
-Tval_pp20<-taxon_as[T_val[i]>=pp20 & T_val[i]<pp30 ,]
-Tval_pp30<-taxon_as[T_val[i]>=pp30 & T_val[i]<pp40 ,]
-Tval_pp40<-taxon_as[T_val[i]>=pp40 & T_val[i]<pp50 ,]
-Tval_pp50<-taxon_as[T_val[i]>=pp50 & T_val[i]<pp60 ,]
-Tval_pp60<-taxon_as[T_val[i]>=pp60 & T_val[i]<pp70 ,]
-Tval_pp70<-taxon_as[T_val[i]>=pp70 & T_val[i]<pp80 ,]
-Tval_pp80<-taxon_as[T_val[i]>=pp80 & T_val[i]<pp90 ,]
-Tval_pp90<-taxon_as[T_val[i]>=pp90 ,]
-#x0_p-> Coeficient pour les taxon avec une T-value entre x% et x+10%
-x0_p<-cof_0p
-x1_p<-cof_1p
-x2_p<-cof_2p
-x3_p<-cof_3p
-x4_p<-cof_4p
-x5_p<-cof_5p
-x6_p<-cof_6p
-x7_p<-cof_7p
-x8_p<-cof_8p
-x9_p<-cof_9p
-#score_p-> score base sur les taxon avec une T-value positive
-score_p<-(colSums(Tval_pp00)*x0_p+ colSums(Tval_pp10)*x1_p + colSums(Tval_pp20)*x2_p + colSums(Tval_pp30)*x3_p + colSums(Tval_pp40)*x4_p + colSums(Tval_pp50)*x5_p + colSums(Tval_pp60)*x6_p + colSums(Tval_pp70)*x7_p + colSums(Tval_pp80)*x8_p + colSums(Tval_pp90)*x9_p) / (nrow(Tval_pp00)*x0_p+nrow(Tval_pp10)*x1_p+nrow(Tval_pp20)*x2_p+nrow(Tval_pp30)*x3_p+nrow(Tval_pp40)*x4_p+nrow(Tval_pp50)*x5_p+nrow(Tval_pp60)*x6_p+nrow(Tval_pp70)*x7_p+nrow(Tval_pp80)*x8_p+nrow(Tval_pp90)*x9_p)
-
-### Calcule score pour T-value negative
-#nega_mini -> valeur de T-value minimal en negatif
-nega_mini<-min(T_val[i][T_val[i]<0,])
-#pnxx -> la valeur de T-value egale a xx% de la valure negative min
-pn10<-10*nega_mini/100
-pn20<-20*nega_mini/100
-pn30<-30*nega_mini/100
-pn40<-40*nega_mini/100
-pn50<-50*nega_mini/100
-pn60<-60*nega_mini/100
-pn70<-70*nega_mini/100
-pn80<-80*nega_mini/100
-pn90<-90*nega_mini/100
-#Tval_pnXX -> taxon avec une T-value entre XX% et XX+10% 
-Tval_pn00<-taxon_as[T_val[i]<=0 & T_val[i]>pn10 ,]
-Tval_pn10<-taxon_as[T_val[i]<=pn10 & T_val[i]>pn20 ,]
-Tval_pn20<-taxon_as[T_val[i]<=pn20 & T_val[i]>pn30 ,]
-Tval_pn30<-taxon_as[T_val[i]<=pn30 & T_val[i]>pn40 ,]
-Tval_pn40<-taxon_as[T_val[i]<=pn40 & T_val[i]>pn50 ,]
-Tval_pn50<-taxon_as[T_val[i]<=pn50 & T_val[i]>pn60 ,]
-Tval_pn60<-taxon_as[T_val[i]<=pn60 & T_val[i]>pn70 ,]
-Tval_pn70<-taxon_as[T_val[i]<=pn70 & T_val[i]>pn80 ,]
-Tval_pn80<-taxon_as[T_val[i]<=pn80 & T_val[i]>pn90 ,]
-Tval_pn90<-taxon_as[T_val[i]<=pn90 ,]
-#x0_n-> Coeficient pour les taxon avec une T-value entre x% et x+10%
-x0_n<-cof_0n
-x1_n<-cof_1n
-x2_n<-cof_2n
-x3_n<-cof_3n
-x4_n<-cof_4n
-x5_n<-cof_5n
-x6_n<-cof_6n
-x7_n<-cof_7n
-x8_n<-cof_8n
-x9_n<-cof_9n
-#score_n-> score base sur les taxon avec une T-value positive
-score_n<-(colSums(Tval_pn00)*x0_n+ colSums(Tval_pn10)*x1_n + colSums(Tval_pn20)*x2_n + colSums(Tval_pn30)*x3_n + colSums(Tval_pn40)*x4_n + colSums(Tval_pn50)*x5_n + colSums(Tval_pn60)*x6_n + colSums(Tval_pn70)*x7_n + colSums(Tval_pn80)*x8_n + colSums(Tval_pn90)*x9_n) / (nrow(Tval_pn00)*x0_n+nrow(Tval_pn10)*x1_n+nrow(Tval_pn20)*x2_n+nrow(Tval_pn30)*x3_n+nrow(Tval_pn40)*x4_n+nrow(Tval_pn50)*x5_n+nrow(Tval_pn60)*x6_n+nrow(Tval_pn70)*x7_n+nrow(Tval_pn80)*x8_n+nrow(Tval_pn90)*x9_n)
-
-### Calcule score final
-score<-score_p-score_n
-
-### Ajout a la matrice des score fianl
-if(i==levGroupe[1]){matrix_score <-score} else {matrix_score <- cbind(matrix_score ,score)}
+  print(i)
+  
+  ### Calcule score pour T-value positive
+  #posi_max -> valeur de T-value maximal en positif
+  posi_max<-max(T_val[i][T_val[i]>0,])
+  #ppxx -> la valeur de T-value egale a xx% de la valure positive max
+  pp10<-10*posi_max/100
+  pp20<-20*posi_max/100
+  pp30<-30*posi_max/100
+  pp40<-40*posi_max/100
+  pp50<-50*posi_max/100
+  pp60<-60*posi_max/100
+  pp70<-70*posi_max/100
+  pp80<-80*posi_max/100
+  pp90<-90*posi_max/100
+  #Tval_ppXX -> taxon avec une T-value entre XX% et XX+10% 
+  Tval_pp00<-taxon_as[T_val[i]>=0 & T_val[i]<pp10 ,]
+  Tval_pp10<-taxon_as[T_val[i]>=pp10 & T_val[i]<pp20 ,]
+  Tval_pp20<-taxon_as[T_val[i]>=pp20 & T_val[i]<pp30 ,]
+  Tval_pp30<-taxon_as[T_val[i]>=pp30 & T_val[i]<pp40 ,]
+  Tval_pp40<-taxon_as[T_val[i]>=pp40 & T_val[i]<pp50 ,]
+  Tval_pp50<-taxon_as[T_val[i]>=pp50 & T_val[i]<pp60 ,]
+  Tval_pp60<-taxon_as[T_val[i]>=pp60 & T_val[i]<pp70 ,]
+  Tval_pp70<-taxon_as[T_val[i]>=pp70 & T_val[i]<pp80 ,]
+  Tval_pp80<-taxon_as[T_val[i]>=pp80 & T_val[i]<pp90 ,]
+  Tval_pp90<-taxon_as[T_val[i]>=pp90 ,]
+  #x0_p-> Coeficient pour les taxon avec une T-value entre x% et x+10%
+  x0_p<-cof_0p
+  x1_p<-cof_1p
+  x2_p<-cof_2p
+  x3_p<-cof_3p
+  x4_p<-cof_4p
+  x5_p<-cof_5p
+  x6_p<-cof_6p
+  x7_p<-cof_7p
+  x8_p<-cof_8p
+  x9_p<-cof_9p
+  #score_p-> score base sur les taxon avec une T-value positive
+  score_p<-(colSums(Tval_pp00)*x0_p+ colSums(Tval_pp10)*x1_p + colSums(Tval_pp20)*x2_p + colSums(Tval_pp30)*x3_p + colSums(Tval_pp40)*x4_p + colSums(Tval_pp50)*x5_p + colSums(Tval_pp60)*x6_p + colSums(Tval_pp70)*x7_p + colSums(Tval_pp80)*x8_p + colSums(Tval_pp90)*x9_p) / (nrow(Tval_pp00)*x0_p+nrow(Tval_pp10)*x1_p+nrow(Tval_pp20)*x2_p+nrow(Tval_pp30)*x3_p+nrow(Tval_pp40)*x4_p+nrow(Tval_pp50)*x5_p+nrow(Tval_pp60)*x6_p+nrow(Tval_pp70)*x7_p+nrow(Tval_pp80)*x8_p+nrow(Tval_pp90)*x9_p)
+  
+  ### Calcule score pour T-value negative
+  #nega_mini -> valeur de T-value minimal en negatif
+  nega_mini<-min(T_val[i][T_val[i]<0,])
+  #pnxx -> la valeur de T-value egale a xx% de la valure negative min
+  pn10<-10*nega_mini/100
+  pn20<-20*nega_mini/100
+  pn30<-30*nega_mini/100
+  pn40<-40*nega_mini/100
+  pn50<-50*nega_mini/100
+  pn60<-60*nega_mini/100
+  pn70<-70*nega_mini/100
+  pn80<-80*nega_mini/100
+  pn90<-90*nega_mini/100
+  #Tval_pnXX -> taxon avec une T-value entre XX% et XX+10% 
+  Tval_pn00<-taxon_as[T_val[i]<=0 & T_val[i]>pn10 ,]
+  Tval_pn10<-taxon_as[T_val[i]<=pn10 & T_val[i]>pn20 ,]
+  Tval_pn20<-taxon_as[T_val[i]<=pn20 & T_val[i]>pn30 ,]
+  Tval_pn30<-taxon_as[T_val[i]<=pn30 & T_val[i]>pn40 ,]
+  Tval_pn40<-taxon_as[T_val[i]<=pn40 & T_val[i]>pn50 ,]
+  Tval_pn50<-taxon_as[T_val[i]<=pn50 & T_val[i]>pn60 ,]
+  Tval_pn60<-taxon_as[T_val[i]<=pn60 & T_val[i]>pn70 ,]
+  Tval_pn70<-taxon_as[T_val[i]<=pn70 & T_val[i]>pn80 ,]
+  Tval_pn80<-taxon_as[T_val[i]<=pn80 & T_val[i]>pn90 ,]
+  Tval_pn90<-taxon_as[T_val[i]<=pn90 ,]
+  #x0_n-> Coeficient pour les taxon avec une T-value entre x% et x+10%
+  x0_n<-cof_0n
+  x1_n<-cof_1n
+  x2_n<-cof_2n
+  x3_n<-cof_3n
+  x4_n<-cof_4n
+  x5_n<-cof_5n
+  x6_n<-cof_6n
+  x7_n<-cof_7n
+  x8_n<-cof_8n
+  x9_n<-cof_9n
+  #score_n-> score base sur les taxon avec une T-value positive
+  score_n<-(colSums(Tval_pn00)*x0_n+ colSums(Tval_pn10)*x1_n + colSums(Tval_pn20)*x2_n + colSums(Tval_pn30)*x3_n + colSums(Tval_pn40)*x4_n + colSums(Tval_pn50)*x5_n + colSums(Tval_pn60)*x6_n + colSums(Tval_pn70)*x7_n + colSums(Tval_pn80)*x8_n + colSums(Tval_pn90)*x9_n) / (nrow(Tval_pn00)*x0_n+nrow(Tval_pn10)*x1_n+nrow(Tval_pn20)*x2_n+nrow(Tval_pn30)*x3_n+nrow(Tval_pn40)*x4_n+nrow(Tval_pn50)*x5_n+nrow(Tval_pn60)*x6_n+nrow(Tval_pn70)*x7_n+nrow(Tval_pn80)*x8_n+nrow(Tval_pn90)*x9_n)
+  
+  ### Calcule score final
+  score<-score_p-score_n
+  
+  ### Ajout a la matrice des score fianl
+  if(i==levGroupe[1]){matrix_score <-score} else {matrix_score <- cbind(matrix_score ,score)}
 }
 #fin de la boucle ##################
 
@@ -175,7 +175,7 @@ colnames(matrix_score)<-c("km_groupe","groupe_number",levGroupe)
 matrix_score<-matrix_score[order(lev,decreasing=F), ]
 
 ###Sauvegarde en .csv
-write.table(matrix_score, "Resultats_brutes/matix_score_habitat_base.csv", row.names=TRUE, col.names = NA, sep=";",dec=".", na=" ")
+write.table(matrix_score, "output/matix_score_habitat.csv", row.names=TRUE, col.names = NA, sep=";",dec=".", na=" ")
 
 ### Netoyage des donnees qui ne sont plus utlies
 remove(last_col)
@@ -286,24 +286,24 @@ remove(levGroupe_fac)
 ### Prepartation pour ggplot2
 #debut de la boucle #####################
 for (i in levGroupe){
-print(i)
-# creation de multi_plots_tampon (pour creation du vrai multi_plots )
-multi_plots_tampon<-cbind(row.names(matrix_score),matrix_score["km_groupe"],matrix_score["km_groupe"],matrix_score[i])
-colnames(multi_plots_tampon)<-c("labels","test","habitat_test","score")
-# transformation des variables factor en variable character
-multi_plots_tampon$labels<-as.character(multi_plots_tampon$labels)
-multi_plots_tampon$test<-as.character(multi_plots_tampon$test)
-multi_plots_tampon$habitat_test<-as.character(multi_plots_tampon$habitat_test)
-# configuration de multi_plots_tampon["habitat_test"]
-multi_plots_tampon["habitat_test"][multi_plots_tampon["habitat_test"]!=i] <- "other_habitats"
-multi_plots_tampon["habitat_test"][multi_plots_tampon["habitat_test"]==i] <- "habitat_of_test"
-# configuration de multi_plots_tampon["test"]
-multi_plots_tampon["test"] <- i
-# Ajout de multi_plots_tampon a la matrice fianl multi_plots
-if(i==levGroupe[1]){multi_plots <-multi_plots_tampon} else {multi_plots<-rbind(multi_plots,multi_plots_tampon,make.row.names = F)}
+  print(i)
+  # creation de multi_plots_tampon (pour creation du vrai multi_plots )
+  multi_plots_tampon<-cbind(row.names(matrix_score),matrix_score["km_groupe"],matrix_score["km_groupe"],matrix_score[i])
+  colnames(multi_plots_tampon)<-c("labels","test","habitat_test","score")
+  # transformation des variables factor en variable character
+  multi_plots_tampon$labels<-as.character(multi_plots_tampon$labels)
+  multi_plots_tampon$test<-as.character(multi_plots_tampon$test)
+  multi_plots_tampon$habitat_test<-as.character(multi_plots_tampon$habitat_test)
+  # configuration de multi_plots_tampon["habitat_test"]
+  multi_plots_tampon["habitat_test"][multi_plots_tampon["habitat_test"]!=i] <- "other_habitats"
+  multi_plots_tampon["habitat_test"][multi_plots_tampon["habitat_test"]==i] <- "habitat_of_test"
+  # configuration de multi_plots_tampon["test"]
+  multi_plots_tampon["test"] <- i
+  # Ajout de multi_plots_tampon a la matrice fianl multi_plots
+  if(i==levGroupe[1]){multi_plots <-multi_plots_tampon} else {multi_plots<-rbind(multi_plots,multi_plots_tampon,make.row.names = F)}
 } 
 #fin de la boucle #####################
- 
+
 ### Plots simplifie des resultats pour tout les test d habitat
 # Netoyage des donnees qui ne sont plus utlies
 remove(i)
@@ -342,17 +342,17 @@ identification_temp <-identification
 switch (data_type,
         "1" = identification[,-c(1:6)][identification_temp[,-c(1:6)]>0] <-1,
         "2" = {identification[,-c(1:6)][identification_temp[,-c(1:6)] ==0] <-0
-          identification[,-c(1:6)][identification_temp[,-c(1:6)] >0 & identification_temp[,-c(1:6)] <=0.03] <-1
-          identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.03 & identification_temp[,-c(1:6)] <=0.11] <-2
-          identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.11 & identification_temp[,-c(1:6)] <=0.23] <-3
-          identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.23 & identification_temp[,-c(1:6)] <=0.38] <-4
-          identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.38 & identification_temp[,-c(1:6)] <=0.60] <-5
-          identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.60] <-6
-          identification[,-c(1:6)] <-round(identification[,-c(1:6)],digits=0)}, # ici les resultat du tablreau est arrondi car sur certain taxon, on a : 0.0000000 ou 1.000000 au lieu de 0 ou 1 ,
+        identification[,-c(1:6)][identification_temp[,-c(1:6)] >0 & identification_temp[,-c(1:6)] <=0.03] <-1
+        identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.03 & identification_temp[,-c(1:6)] <=0.11] <-2
+        identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.11 & identification_temp[,-c(1:6)] <=0.23] <-3
+        identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.23 & identification_temp[,-c(1:6)] <=0.38] <-4
+        identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.38 & identification_temp[,-c(1:6)] <=0.60] <-5
+        identification[,-c(1:6)][identification_temp[,-c(1:6)] >0.60] <-6
+        identification[,-c(1:6)] <-round(identification[,-c(1:6)],digits=0)}, # ici les resultat du tablreau est arrondi car sur certain taxon, on a : 0.0000000 ou 1.000000 au lieu de 0 ou 1 ,
         "3" = identification <- identification)
 
 
- # ici les resultat du tablreau est arrondi car sur certain taxon, on a : 0.0000000 ou 1.000000 au lieu de 0 ou 1 
+# ici les resultat du tablreau est arrondi car sur certain taxon, on a : 0.0000000 ou 1.000000 au lieu de 0 ou 1 
 
 identification <- identification[identification$used_for_T_value=="yes" ,]
 ##### rajout d'une copie du premier site (identification[7]) a la fin de "identification" car sinon les fonction colSums()
@@ -550,17 +550,17 @@ for (i in levGroupe){
 ### Creation de identification_final (dataset pour les plots)
 #debut de la boucle ################
 for (i in levGroupe){
-print(i)
-# creation de identification_tempo (pour creation du vrai multi_plots )
-identification_tempo<-cbind(row.names(matrix_score_identification),matrix_score_identification[levGroupe[1]],matrix_score_identification[i])
-colnames(identification_tempo)<-c("labels","test","score")
-# transformation des variables factor en variable character
-identification_tempo$labels<-as.character(identification_tempo$labels)
-identification_tempo$test<-as.character(identification_tempo$test)
-# configuration de identification_tempo["test"]
-identification_tempo["test"] <- i
-# Ajout de identification_tempo a la matrice fianl multi_plots
-if(i==levGroupe[1]){identification_final <-identification_tempo} else {identification_final<-rbind(identification_final,identification_tempo,make.row.names = F)}
+  print(i)
+  # creation de identification_tempo (pour creation du vrai multi_plots )
+  identification_tempo<-cbind(row.names(matrix_score_identification),matrix_score_identification[levGroupe[1]],matrix_score_identification[i])
+  colnames(identification_tempo)<-c("labels","test","score")
+  # transformation des variables factor en variable character
+  identification_tempo$labels<-as.character(identification_tempo$labels)
+  identification_tempo$test<-as.character(identification_tempo$test)
+  # configuration de identification_tempo["test"]
+  identification_tempo["test"] <- i
+  # Ajout de identification_tempo a la matrice fianl multi_plots
+  if(i==levGroupe[1]){identification_final <-identification_tempo} else {identification_final<-rbind(identification_final,identification_tempo,make.row.names = F)}
 } 
 #fin de la boucle #################
 
@@ -581,16 +581,16 @@ remove(identification_tempo)
 # plot de base et plot complet
 
 switch (representation_score,
-  "1" = {for ( X1 in levGroupe){
-  assign(paste0(X1,"_min"), min(matrix_score[X1][matrix_score["km_groupe"]==X1]))
-  assign(paste0(X1,"_max"), max(matrix_score[X1][matrix_score["km_groupe"]==X1]))
-  assign(paste0(X1,"_min_other"), min(matrix_score[X1][matrix_score["km_groupe"]!=X1]))
-  assign(paste0(X1,"_max_other"), max(matrix_score[X1][matrix_score["km_groupe"]!=X1]))}},
-  "2" = {for ( X1 in levGroupe){
-    assign(paste0(X1,"_min"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]==X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[1])
-    assign(paste0(X1,"_max"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]==X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[2])
-    assign(paste0(X1,"_min_other"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]!=X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[1])
-    assign(paste0(X1,"_max_other"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]!=X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[2])}})
+        "1" = {for ( X1 in levGroupe){
+          assign(paste0(X1,"_min"), min(matrix_score[X1][matrix_score["km_groupe"]==X1]))
+          assign(paste0(X1,"_max"), max(matrix_score[X1][matrix_score["km_groupe"]==X1]))
+          assign(paste0(X1,"_min_other"), min(matrix_score[X1][matrix_score["km_groupe"]!=X1]))
+          assign(paste0(X1,"_max_other"), max(matrix_score[X1][matrix_score["km_groupe"]!=X1]))}},
+        "2" = {for ( X1 in levGroupe){
+          assign(paste0(X1,"_min"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]==X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[1])
+          assign(paste0(X1,"_max"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]==X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[2])
+          assign(paste0(X1,"_min_other"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]!=X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[1])
+          assign(paste0(X1,"_max_other"), wilcox.test(matrix_score[X1][matrix_score["km_groupe"]!=X1],conf.int=TRUE,conf.level = 0.9999)$conf.int[2])}})
 
 remove(X1)
 
@@ -625,8 +625,8 @@ for ( X1 in levGroupe){
   X3 <- paste0(X3,X2)}
 
 switch (representation,
-"1" = X3 <- paste0(X3, "scale_shape_manual(values=c(97:122,49:57))+ geom_point(size=3) + scale_x_discrete(limits=levGroupe) + coord_flip()"), 
-"2" = X3 <- paste0(X3, "scale_shape_manual(values=c(97:122,49:57)) + scale_x_discrete(limits=levGroupe) + coord_flip()") )
+        "1" = X3 <- paste0(X3, "scale_shape_manual(values=c(97:122,49:57))+ geom_point(size=3) + scale_x_discrete(limits=levGroupe) + coord_flip()"), 
+        "2" = X3 <- paste0(X3, "scale_shape_manual(values=c(97:122,49:57)) + scale_x_discrete(limits=levGroupe) + coord_flip()") )
 
 #note sur l expression final X3
 #scale_x_discrete(limits=levGroupe) -> ne reorganise pas automatiquement en fonction du level pour les donnees factor quand il y a geom_linerange
@@ -647,16 +647,16 @@ for (i in colnames(identification_proportion[,-c(1:6)])) {
   sum_total<-sum(identification_proportion[i])
   sum_yes<-sum(identification_proportion[i][identification_proportion[,2]=="yes" ,])
   percent_pollen_grains<-sum_yes*100/sum_total 
-
+  
   col_sum_total<-colSums(identification_proportion[i]!=0)
   col_sum_yes<-sum(identification_proportion[i][identification_proportion[,2]=="yes" ,]!=0)
   percent_pollen_types<-col_sum_yes*100/col_sum_total
-
+  
   proportion["%_pollen_gains_used",i] <- round(percent_pollen_grains,1)
   proportion["%_pollen_types_used",i] <- round(percent_pollen_types,1)
   proportion["n_pollen_gains_used",i] <- round(sum_yes,0)
   proportion["n_pollen_types_used",i] <- round(col_sum_yes,0)  
-  }
+}
 
 print("")  
 print("")  
@@ -671,25 +671,25 @@ t(proportion)
 b<-"Fb/Wd-river"
 
 if (b == "") { print("vérification des V-scores désactivé") } else {
-# recuperer la valeur de score la plus faible pour les sites du meme type d habitat que celui du test
-limite1<-min(matrix_score[b][matrix_score["km_groupe"]==b])
-# recuperer la valeur de score la plus haute pour les sites de type d habitat different de celui du test
-limite2<-max(matrix_score[b][matrix_score["km_groupe"]!=b])
-# configuration du plot
-# eval(parse(text=b)) -> permet de transformet le caractere b en objet (retire les guillets)
-ggplot(matrix_score, aes(x=km_groupe, y=eval(parse(text=paste0("`",b,"`"))),fill=km_groupe)) +
-  xlab("k-mean groups") + ylab(paste("Score for detection of",b,"habitats", sep=" ")) + # noms des axes
-  scale_fill_manual(values=c("plum","dark green","dark green","dark green","dark green","green","green","light salmon","khaki","khaki","khaki","lavender","lavender","lavender","sky blue","sky blue","sky blue","blue","blue","blue","blue","blue","blue","blue")) +  #couleur des boxplots (demande aussi d avoir fill=km_groupe dans aes())
-  theme(legend.position="none") + # supprimer la légende
-  geom_boxplot() +  # pour activer les boxplots
-  coord_flip()   # rotation du graphique
-#geom_hline(yintercept=limite1, linetype="dashed", color = "red", size=1) +   
-#geom_hline(yintercept=limite2 , color = "red", size=1)
-# Netoyage des donnees qui ne sont plus utlies
+  # recuperer la valeur de score la plus faible pour les sites du meme type d habitat que celui du test
+  limite1<-min(matrix_score[b][matrix_score["km_groupe"]==b])
+  # recuperer la valeur de score la plus haute pour les sites de type d habitat different de celui du test
+  limite2<-max(matrix_score[b][matrix_score["km_groupe"]!=b])
+  # configuration du plot
+  # eval(parse(text=b)) -> permet de transformet le caractere b en objet (retire les guillets)
+  ggplot(matrix_score, aes(x=km_groupe, y=eval(parse(text=paste0("`",b,"`"))),fill=km_groupe)) +
+    xlab("k-mean groups") + ylab(paste("Score for detection of",b,"habitats", sep=" ")) + # noms des axes
+    scale_fill_manual(values=c("plum","dark green","dark green","dark green","dark green","green","green","light salmon","khaki","khaki","khaki","lavender","lavender","lavender","sky blue","sky blue","sky blue","blue","blue","blue","blue","blue","blue","blue")) +  #couleur des boxplots (demande aussi d avoir fill=km_groupe dans aes())
+    theme(legend.position="none") + # supprimer la légende
+    geom_boxplot() +  # pour activer les boxplots
+    coord_flip()   # rotation du graphique
+  #geom_hline(yintercept=limite1, linetype="dashed", color = "red", size=1) +   
+  #geom_hline(yintercept=limite2 , color = "red", size=1)
+  # Netoyage des donnees qui ne sont plus utlies
 }
 
 if (b == "") {} else {
-remove(b)
-remove(limite1)
-remove(limite2)}
+  remove(b)
+  remove(limite1)
+  remove(limite2)}
 
