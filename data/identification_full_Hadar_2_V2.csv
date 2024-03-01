@@ -1,0 +1,431 @@
+order;used_for_T_value;plant_habit;pollen_habit;familly;Vincens_et_al_pollen_types;R_labels;KMl1;KMk;KMj;Kmi;KMh;KMg;KMf;Kme;KMd2b;KMd2a;KMc;KMb;KMa
+247;yes;HS(T);I;MALVACEAE;Abutilon;Abutilon;0;0;0;0;0;0;0;0;0;0;0;0;0
+261;yes;ST(L);AL;MIMOSACEAE;Acacia;Acacia;2;1;1;0;0;2;0;1;0;0;1;0;0
+166;yes;HS(T);I;EUPHORBIACEAE;Acalypha;Acalypha;0;0;0;1;0;0;0;0;0;0;0;0;0
+1;yes;HS(TL);I;ACANTHACEAE;Acanthaceae undiff.;Acanthaceae;0;0;0;0;0;0;0;0;1;0;0;1;0
+2;yes;HST;I;ACANTHACEAE;Acanthus-type;Acanthus;0;0;0;0;0;0;0;0;0;0;0;0;0
+25;yes;H;N;AMARANTHACEAE;Achyranthes-type aspera;Achyranthes_aspera;0;0;0;0;0;0;0;1;0;3;0;0;0
+52;yes;ST;A;APOCYNACEAE;Acokanthera-type schimperi;Acokanthera_schimperi;;;;;;;;;;;;;
+82;yes;T;A;BOMBACACEAE;Adansonia;Adansonia;;;;;;;;;;;;;
+53;yes;ST;A;APOCYNACEAE;Adenium-type obesum;Adenium_obesum;;;;;;;;;;;;;
+26;yes;H;N;AMARANTHACEAE;Aerva-type;Aerva;;;;;;;;;;;;;
+27;yes;H;N;AMARANTHACEAE;Aerva-type javanica;Aerva_javanica;0;0;0;0;0;0;0;1;0;0;0;0;0
+28;yes;H;N;AMARANTHACEAE;Aerva-type lanata;Aerva_lanata;0;0;2;0;0;0;0;0;0;0;0;0;0
+190;yes;S;A;FABACEAE;Aeschynomene baumii-type;Aeschynomene_baumi;;;;;;;;;;;;;
+358;no;S;A;RUTACEAE;Agathosma-type;Agathosma;;;;;;;;;;;;;
+20;yes;HT;I;AGAVACEAE;Agavaceae undiff.;Agavaceae;;;;;;;;;;;;;
+21;yes;H;N;AIZOACEAE;Aizoaceae undiff.;Aizoaceae;;;;;;;;;;;;;
+23;yes;T;A;ALANGIACEAE;Alangium chinense;Alangium_chinense;0;0;0;0;0;0;0;0;0;0;0;0;0
+262.1;yes;T(S);A;MIMOSACEAE;Albizia-type;Albizia;;;;;;;;;;;;;
+329;yes;HS;I;ROSACEAE;Alchemilla;Alchemilla;1;0;1;0;0;0;0;0;0;0;0;0;0
+167;yes;ST;A;EUPHORBIACEAE;Alchornea;Alchornea;;;;;;;;;;;;;
+365;yes;T;A;SAPINDACEAE;Allophylus abyssinicus-type;Allophylus_abyssinicus;1;0;0;0;0;0;0;0;0;0;0;0;0
+24;yes;H(ST);I;ALOACEAE;Aloe-type;Aloe;0;0;0;0;0;0;0;0;0;0;0;0;0
+54;yes;T;A;APOCYNACEAE;Alstonia-type boonei;Alstonia_boonei;;;;;;;;;;;;;
+29;yes;H(La);N;AMARANTHACEAE;Alternanthera;Alternanthera;0;0;0;0;0;0;0;0;0;0;0;0;0
+40;yes;H(STL);I;AMARANTHACEAE/CHENOPODIACEAE/CARYOPHYLLACEAE;Amaranthaceae/Chenopodiaceae/Caryophyllaceae  undiff.;Amar/Cheno/Caryo;0;3;48;49;19;4;11;0;7;0;0;2;0
+30;yes;H;N;AMARANTHACEAE;Amaranthus-type;Amaranthus;;;;;;;;;;;;;
+41;yes;ST(L);A;ANACARDIACEAE;Anacardiaceae undiff.;Anacardiaceae;;;;;;;;;;;;;
+319;yes;Ha;Nq;PRIMULACEAE;Anagallis angustiloba-type;Anagallis_angustiloba;;;;;;;;;;;;;
+168;yes;H;N;EUPHORBIACEAE;Andrachne aspera-type;Andrachne_aspera;;;;;;;;;;;;;
+47;yes;ST;A;ANNONACEAE;Annona-type senegalensis;Annona_senegalensis;;;;;;;;;;;;;
+138;yes;T;A;COMBRETACEAE;Anogeissus-type leiocarpa;Anogeissus_leiocarpa;;;;;;;;;;;;;
+237;yes;T(SL);A;LOGANIACEAE;Anthocleista;Anthocleista;;;;;;;;;;;;;
+335;yes;HS;I;RUBIACEAE;Anthospermum;Anthospermum;;;;;;;;;;;;;
+380;no;H;N;SCROPHULARIACEAE;Anticharis-type;Anticharis;;;;;;;;;;;;;
+48;yes;H(ST);I;APIACEAE;Apiaceae undiff.;Apiaceae;0;0;0;1;0;0;0;0;0;3;0;0;0
+55;yes;STL(H);I;APOCYNACEAE;Apocynaceae undiff.;Apocynaceae;1;0;0;0;0;0;0;0;0;0;0;0;0
+222;yes;T;A;ICACINACEAE;Apodytes dimidiata;Apodytes_dimidiata;0;0;0;0;0;0;0;0;0;0;0;0;0
+62;no;STL(ep);AL;ARALIACEAE;Araliaceae undiff.;Araliaceae;;;;;;;;;;;;;
+169;yes;ST;A;EUPHORBIACEAE;Argomuellera-type macrophylla;Argomuellera_macrophylla;;;;;;;;;;;;;
+308;yes;HS;I;PLUMBAGINACEAE;Armeria/Limonium;Armeria/Limonium;;;;;;;;;;;;;
+125;no;S;A;CHENOPODIACEAE;Arthrocnemum macrostachyum-type;Arthrocnemum_macrostachyum;;;;;;;;;;;;;
+69;yes;S;A;ASPARAGACEAE;Asparagus aethiopicus-type;Asparagus_aethiopicus;;;;;;;;;;;;;
+70;yes;L;L;ASPARAGACEAE;Asparagus buchananii-type;Asparagus_buchananii;;;;;;;;;;;;;
+71;no;H;N;ASPHODELACEAE;Asphodelus;Asphodelus;;;;;;;;;;;;;
+3;yes;HS(L);I;ACANTHACEAE;Asystasia;Asystasia;;;;;;;;;;;;;
+126;no;HS;I;CHENOPODIACEAE;Atriplex-type;Atriplex;;;;;;;;;;;;;
+74;no;ST;A;AVICENNIACEAE;Avicennia marina-type;Avicennia_marina;;;;;;;;;;;;;
+414;yes;ST;A;ZYGOPHYLLACEAE;Balanites;Balanites;;;;;;;;;;;;;
+76;yes;ST;A;BARBEYACEAE;Barbeya oleoides;Barbeya_oleoides;;;;;;;;;;;;;
+4;yes;HSL;I;ACANTHACEAE;Barleria;Barleria;;;;;;;;;;;;;
+77;yes;HL;NL;BASELLACEAE;Basella alba-type;Basella_alba;;;;;;;;;;;;;
+224;yes;H;N;LAMIACEAE;Basilicum-type polystachyon;Basilicum_polystachyon;;;;;;;;;;;;;
+78;yes;Hep(L);NL;BEGONIACEAE;Begonia;Begonia;;;;;;;;;;;;;
+79;no;S;A;BERBERIDACEAE;Berberis holstii;Berberis_holstii;;;;;;;;;;;;;
+163.2;no;H;N;ELATINACEAE;Bergia;Bergia;;;;;;;;;;;;;
+256;yes;ST;A;MELIANTHACEAE;Bersama abyssinica-type;Bersama_abyssinica;;;;;;;;;;;;;
+366;yes;T;A;SAPINDACEAE;Blighia unijugata-type;Blighia_unijugata;;;;;;;;;;;;;
+299;yes;PA;PA;PALMAE;Borassus-type;Borassus;0;0;1;0;0;2;0;0;0;0;0;0;0
+298;yes;PA;PA;PALMAE;Borassus/Hyphaene;Borassus/Hyphaene;;;;;;;;;;;;;
+103;yes;ST;A;CAPPARIDACEAE;Boscia-type;Boscia;0;0;0;0;0;0;0;0;0;0;0;0;0
+91;no;T;A;CAESALPINIACEAE;Brachystegia;Brachystegia;;;;;;;;;;;;;
+89.1;yes;H(S);I;BRASSICACEAE;Brassicaceae undiff.;Brassicaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+170;yes;ST;A;EUPHORBIACEAE;Bridelia-type;Bridelia;;;;;;;;;;;;;
+384;yes;ST;A;SIMAROUBACEAE;Brucea;Brucea;0;0;0;0;0;0;0;0;0;0;0;0;0
+381;yes;H(p);N;SCROPHULARIACEAE;Buchnera-type;Buchnera;;;;;;;;;;;;;
+238;yes;ST(L);A;LOGANIACEAE;Buddleja;Buddleja;;;;;;;;;;;;;
+89.2;no;A;A;BUXACEAE      ;Buxus;Buxus;;;;;;;;;;;;;
+93;no;STL;AL;CAESALPINIACEAE;Caesalpinia-type trothae;Caesalpinia_trothae;;;;;;;;;;;;;
+92;yes;STL(H);I;CAESALPINIACEAE;Caesalpiniaceae undiff.;Caesalpiniaceae;;;;;;;;;;;;;
+262.2;no;T;A;MIMOSACEAE;Calpocalyx-type letestui ;Calpocalyx_letestui ;;;;;;;;;;;;;
+191;yes;ST;A;FABACEAE;Calpurnia-type aurea;Calpurnia_aurea;;;;;;;;;;;;;
+100;yes;H(S);I;CAMPANULACEAE;Campanulaceae undiff.;Campanulaceae;;;;;;;;;;;;;
+101;yes;H(ep);N;CAMPANULACEAE;Canarina;Canarina;;;;;;;;;;;;;
+192;yes;H(L);N;FABACEAE;Canavalia-type;Canavalia;;;;;;;;;;;;;
+336;yes;ST;A;RUBIACEAE;Canthium-type;Canthium;;;;;;;;;;;;;
+225;yes;S;A;LAMIACEAE;Capitanya-type otostegioides;Capitanya_otostegioides;;;;;;;;;;;;;
+104;yes;HST(L);I;CAPPARIDACEAE;Capparidaceae undiff.;Capparidaceae;;;;;;;;;;;;;
+105;yes;S(TL);AL;CAPPARIDACEAE;Capparis;Capparis;0;0;0;0;0;0;0;0;0;0;0;0;0
+111;no;S;A;CAPRIFOLIACEAE;Caprifoliaceae undiff.;Caprifoliaceae;;;;;;;;;;;;;
+367;yes;HL;NL;SAPINDACEAE;Cardiospermum halicacabum-type;Cardiospermum_halicacabum;;;;;;;;;;;;;
+56;yes;ST;A;APOCYNACEAE;Carissa edulis-type;Carissa_edulis;;;;;;;;;;;;;
+112;yes;H(S);I;CARYOPHYLLACEAE;Caryophyllaceae undiff.;Caryophyllaceae;0;3;1;0;0;0;0;0;0;0;0;0;0
+94;yes;HST;I;CAESALPINIACEAE;Cassia-type;Cassia;;;;;;;;;;;;;
+122;yes;STL;AL;CELASTRACEAE;Cassine;Cassine;;;;;;;;;;;;;
+245;yes;SL;AL;MALPIGHIACEAE;Caucanthus-type;Caucanthus;;;;;;;;;;;;;
+124;yes;STL;AL;CELASTRACEAE/HIPPOCRATEACEAE;Celastraceae/Hippocrateaceae undiff.;Celastraceae/Hippocrateaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+32;yes;H(L);N;AMARANTHACEAE;Celosia-type;Celosia;;;;;;;;;;;;;
+31;yes;H;N;AMARANTHACEAE;Celosia argentea-type;Celosia_argentea;0;0;0;0;0;0;0;0;0;0;0;0;0
+33;yes;H;N;AMARANTHACEAE;Celosia-type trigyna;Celosia_trigyna;;;;;;;;;;;;;
+400;yes;ST;A;ULMACEAE;Celtis;Celtis;6;0;0;0;1;0;0;0;0;0;0;0;0
+113;yes;H;N;CARYOPHYLLACEAE;Cerastium afromontanum-type;Cerastium_afromontanum;;;;;;;;;;;;;
+114;yes;H;N;CARYOPHYLLACEAE;Cerastium-type octandrum;Cerastium_octandrum;;;;;;;;;;;;;
+401;yes;ST;A;ULMACEAE;Chaetacme aristata;Chaetacme_aristata;;;;;;;;;;;;;
+127;yes;H(ST);I;CHENOPODIACEAE;Chenopodiaceae undiff.;Chenopodiaceae;;;;;;;;;;;;;
+128;yes;H;N;CHENOPODIACEAE;Chenopodium-type;Chenopodium;0;0;0;0;0;0;0;6;0;6;0;0;0
+287;yes;ST;A;OLEACEAE;Chionanthus mildbraedii-type;Chionanthus_mildbraedii;;;;;;;;;;;;;
+395;yes;ST;A;TILIACEAE;Christiana africana;Christiana africana;;;;;;;;;;;;;
+171;no;H;N;EUPHORBIACEAE;Chrozophora verbascifolia-type;Chrozophora_verbascifolia;;;;;;;;;;;;;
+72;yes;HS(TL);I;ASTERACEAE;Cichorieae;Cichorieae;1;2;0;1;0;6;1;1;0;0;37;1;0
+257;yes;L;L;MENISPERMACEAE;Cissampelos-type mucronata;Cissampelos_mucronata;;;;;;;;;;;;;
+411;yes;HS(L);I;VITACEAE;Cissus;Cissus;;;;;;;;;;;;;
+296;no;Hp;N;OROBANCHACEAE;Cistanche;Cistanche;;;;;;;;;;;;;
+359;yes;ST;A;RUTACEAE;Citrus-type;Citrus;;;;;;;;;;;;;
+322;yes;S(L);AL;RANUNCULACEAE;Clematis-type;Clematis;0;0;0;0;0;0;0;0;0;0;0;0;0
+106;yes;H;N;CAPPARIDACEAE;Cleome-type;Cleome;;;;;;;;;;;;;
+107;yes;H;N;CAPPARIDACEAE;Cleome-type brachycarpa;Cleome_brachycarpa;;;;;;;;;;;;;
+108;yes;H;N;CAPPARIDACEAE;Cleome-type parvipetala;Cleome_parvipetala;;;;;;;;;;;;;
+172;yes;HST;I;EUPHORBIACEAE;Clutia;Clutia;;;;;;;;;;;;;
+150;yes;H(L);NL;CUCURBITACEAE;Coccinia grandis-type;Coccinia_grandis;;;;;;;;;;;;;
+258.1;yes;L;L;MENISPERMACEAE;Cocculus-type;Cocculus;;;;;;;;;;;;;
+139;yes;STL;AL;COMBRETACEAE;Combretaceae undiff.;Combretaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+140;yes;SL;AL;COMBRETACEAE;Combretum-type aculeatum;Combretum_aculeatum;;;;;;;;;;;;;
+141;yes;T(S);A;COMBRETACEAE;Combretum-type molle;Combretum_molle;0;0;1;0;0;0;0;0;0;0;0;0;0
+143;yes;H;N;COMMELINACEAE;Commelina-type benghalensis;Commelina_benghalensis;0;0;0;0;0;0;0;0;0;0;0;0;0
+144;yes;H;N;COMMELINACEAE;Commelina-type forskalaei;Commelina_forskalaei;0;1;0;0;0;0;0;0;0;0;0;0;0
+142;yes;H;N;COMMELINACEAE;Commelinaceae undiff.;Commelinaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+90;yes;ST;A;BURSERACEAE;Commiphora;Commiphora;0;0;0;1;0;0;0;1;0;0;0;0;0
+145;yes;HSp(TL);I;CONVOLVULACEAE;Convolvulaceae undiff.;Convolvulaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+146;no;H(L);NL;CONVOLVULACEAE;Convolvulus-type;Convolvulus;;;;;;;;;;;;;
+396;yes;H;N;TILIACEAE;Corchorus-type;Corchorus;;;;;;;;;;;;;
+83;yes;ST(L);AL;BORAGINACEAE;Cordia;Cordia;;;;;;;;;;;;;
+337;yes;ST;A;RUBIACEAE;Craterispermum schweinfurthii-type;Craterispermum_schweinfurthii;;;;;;;;;;;;;
+109;yes;ST;A;CAPPARIDACEAE;Crateva-type adansonii;Crateva_adansonii;;;;;;;;;;;;;
+193;yes;HS;I;FABACEAE;Crotalaria;Crotalaria;;;;;;;;;;;;;
+173;yes;ST(HL);I;EUPHORBIACEAE;Croton-type;Croton;4;1;0;0;0;0;0;0;0;0;0;0;0
+95;no;T;A;CAESALPINIACEAE;Crudia-type;Crudia;;;;;;;;;;;;;
+151;yes;H(L);NL;CUCURBITACEAE;Cucumis dipsaceus-type;Cucumis_dipsaceus;;;;;;;;;;;;;
+152;yes;H(L);NL;CUCURBITACEAE;Cucurbitaceae undiff.;Cucurbitaceae;0;0;0;0;0;0;0;0;5;0;0;0;0
+154.2;yes;ST;A;CUPRESSACEAE;Cupressaceae undiff.;Cupressaceae;;;;;;;;;;;;;
+63;yes;ST;A;ARALIACEAE;Cussonia-type;Cussonia;;;;;;;;;;;;;
+34;yes;H;N;AMARANTHACEAE;Cyathula-type orthacantha;Cyathula_orthacantha;;;;;;;;;;;;;
+84;no;H;N;BORAGINACEAE;Cynoglossum-type;Cynoglossum;;;;;;;;;;;;;
+156;yes;H(L);NL;CYPERACEAE;Cyperaceae undiff.;Cyperaceae;25;57;104;142;34;125;136;60;162;384;276;423;586
+412;yes;H(SL);I;VITACEAE;Cyphostemma-type;Cyphostemma;;;;;;;;;;;;;
+368;yes;T;A;SAPINDACEAE;Deinbollia-type kilimandscharica;Deinbollia_kilimandscharica;;;;;;;;;;;;;
+96.1;yes;T;A;CAESALPINIACEAE;Delonix elata-type;Delonix_elata;;;;;;;;;;;;;
+194;yes;HS;I;FABACEAE;Desmodium repandum-type;Desmodium_repandum;;;;;;;;;;;;;
+263;yes;ST;A;MIMOSACEAE;Dichrostachys cinerea-type;Dichrostachys_cinerea;0;0;0;0;1;0;0;0;0;0;0;0;0
+392;yes;ST;A;THYMELAEACEAE;Dicranolepis-type;Dicranolepis;;;;;;;;;;;;;
+35;yes;H;N;AMARANTHACEAE;Digera-type muricata;Digera_muricata;;;;;;;;;;;;;
+161;yes;ST;A;EBENACEAE;Diospyros;Diospyros;;;;;;;;;;;;;
+49.2;yes;HS;I;APIACEAE;Diplolophium-type;Diplolophium;;;;;;;;;;;;;
+369;yes;ST;A;SAPINDACEAE;Dodonaea viscosa-type;Dodonaea_viscosa;0;0;2;1;0;1;0;0;0;0;1;0;0
+387;yes;ST;A;STERCULIACEAE;Dombeya-type;Dombeya;1;0;0;0;0;0;0;0;0;0;0;0;0
+269;yes;HS(ep);A;MORACEAE;Dorstenia-type;Dorstenia;;;;;;;;;;;;;
+159;yes;S(T);A;DRACAENACEAE;Dracaena;Dracaena;;;;;;;;;;;;;
+160;yes;H;N;DROSERACEAE;Drosera;Drosera;;;;;;;;;;;;;
+115;yes;H;N;CARYOPHYLLACEAE;Drymaria cordata-type;Drymaria_cordata;;;;;;;;;;;;;
+5;yes;S(L);AL;ACANTHACEAE;Duosperma;Duosperma;;;;;;;;;;;;;
+6;yes;H(S);I;ACANTHACEAE;Dyschoriste-type radicans;Dyschoriste_radicans;;;;;;;;;;;;;
+162;yes;ST;A;EBENACEAE;Ebenaceae undiff.;Ebenaceae;;;;;;;;;;;;;
+85;yes;H;N;BORAGINACEAE;Echium-type;Echium;;;;;;;;;;;;;
+86;yes;ST;A;BORAGINACEAE;Ehretia cymosa-type;Ehretia_cymosa;;;;;;;;;;;;;
+253;yes;T;A;MELIACEAE;Ekebergia-type capensis;Ekebergia_capensis;0;0;0;0;0;0;0;0;0;0;1;0;0
+277;yes;STL;AL;MYRSINACEAE;Embelia-type;Embelia;;;;;;;;;;;;;
+210;yes;H;N;GENTIANACEAE;Enicostema;Enicostema;;;;;;;;;;;;;
+264;yes;STL;AL;MIMOSACEAE;Entada-type;Entada;;;;;;;;;;;;;
+164;yes;SL;AL;EPHEDRACEAE;Ephedra;Ephedra;;;;;;;;;;;;;
+165;yes;ST;A;ERICACEAE;Ericaceae undiff.;Ericaceae;3;0;0;0;0;0;0;0;0;0;0;0;0
+195;yes;ST;A;FABACEAE;Erythrina abyssinica-type;Erythrina_abyssinica;;;;;;;;;;;;;
+174;yes;ST;A;EUPHORBIACEAE;Erythrococca-type;Erythrococca;;;;;;;;;;;;;
+282;yes;ST;A;MYRTACEAE;Eucalyptus-type;Eucalyptus;;;;;;;;;;;;;
+163.1;yes;ST;A;EBENACEAE;Euclea;Euclea;0;0;1;0;0;0;0;0;0;0;0;0;0
+283;yes;ST;A;MYRTACEAE;Eugenia/Syzygium;Eugenia/Syzygium;0;0;0;0;0;0;0;0;0;0;0;0;0
+177;yes;H;N;EUPHORBIACEAE;Euphorbia-type indica;Euphorbia_indica;;;;;;;;;;;;;
+175;yes;ST;A;EUPHORBIACEAE;Euphorbia tirucalli-type ;Euphorbia_tirucalli;;;;;;;;;;;;;
+176;yes;HST(L);I;EUPHORBIACEAE;Euphorbiaceae undiff.;Euphorbiaceae;1;0;1;0;0;0;0;0;0;0;0;0;0
+147;yes;H;N;CONVOLVULACEAE;Evolvulus-type;Evolvulus;;;;;;;;;;;;;
+196;yes;HSTL;I;FABACEAE;Fabaceae undiff.;Fabaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+415;yes;HS;I;ZYGOPHYLLACEAE;Fagonia;Fagonia;;;;;;;;;;;;;
+49.1;no;H;N;APIACEAE;Ferula;Ferula;;;;;;;;;;;;;
+270;yes;ST(ep);A;MORACEAE;Ficus;Ficus;0;0;0;0;0;0;0;0;0;0;0;0;0
+208;no;ST;A;FLACOURTIACEAE;Flacourtiaceae undiff.;Flacourtiaceae;;;;;;;;;;;;;
+209;yes;L;L;FLAGELLARIACEAE;Flagellaria indica-type;Flagellaria_indica;;;;;;;;;;;;;
+178;yes;ST;A;EUPHORBIACEAE;Flueggea virosa-type;Flueggea_virosa;;;;;;;;;;;;;
+338;yes;S(T);A;RUBIACEAE;Galiniera saxifraga;Galiniera_saxifraga;;;;;;;;;;;;;
+132;yes;T;A;CLUSIACEAE;Garcinia gnetoides-type;Garcinia_gnetoides;;;;;;;;;;;;;
+133;yes;T;A;CLUSIACEAE;Garcinia granulata-type;Garcinia_granulata;0;0;0;0;0;0;0;0;0;0;0;0;0
+134;yes;ST;A;CLUSIACEAE;Garcinia volkensii-type;Garcinia_volkensii;;;;;;;;;;;;;
+339;yes;T;A;RUBIACEAE;Gardenia-type ternifolia;Gardenia_ternifolia;;;;;;;;;;;;;
+211;yes;H(Sep);I;GENTIANACEAE;Gentianaceae undiff.;Gentianaceae;;;;;;;;;;;;;
+215;yes;H;N;GERANIACEAE;Geranium;Geranium;;;;;;;;;;;;;
+370;yes;ST;A;SAPINDACEAE;Glenniea-type africana;Glenniea_africana;;;;;;;;;;;;;
+137;yes;H;N;COLCHICACEAE;Gloriosa;Gloriosa;;;;;;;;;;;;;
+393;yes;HST;I;THYMELAEACEAE;Gnidia-type;Gnidia;;;;;;;;;;;;;
+397;yes;STL;AL;TILIACEAE;Grewia-type;Grewia;;;;;;;;;;;;;
+216;yes;H;N;HALORRHAGACEAE;Gunnera perpensa;Gunnera_perpensa;;;;;;;;;;;;;
+330;yes;T;A;ROSACEAE;Hagenia abyssinica;Hagenia_abyssinica;27;8;5;0;0;0;1;0;1;1;0;0;0
+340;yes;T;A;RUBIACEAE;Hallea-type rubrostipulata;Hallea_rubrostipulata;0;0;0;0;0;0;0;0;2;0;0;0;0
+219;yes;ST;A;HYPERICACEAE;Harungana madagascariensis-type;Harungana_madagascariensis;;;;;;;;;;;;;
+131;no;H;N;CISTACEAE;Helianthemum;Helianthemum;;;;;;;;;;;;;
+87;yes;H;N;BORAGINACEAE;Heliotropium steudneri-type;Heliotropium_steudneri;;;;;;;;;;;;;
+388;yes;H;N;STERCULIACEAE;Hermannia-type;Hermannia;;;;;;;;;;;;;
+251;yes;H;N;MELASTOMATACEAE;Heterotis-type canescens;Heterotis_canescens;;;;;;;;;;;;;
+248;yes;HS(T);I;MALVACEAE;Hibiscus/Pavonia;Hibiscus/Pavonia;0;0;0;0;0;0;0;0;0;0;0;0;0
+148;yes;S;A;CONVOLVULACEAE;Hildebrandtia-type obcordata;Hildebrandtia_obcordata;;;;;;;;;;;;;
+57;yes;ST(L);AL;APOCYNACEAE;Hunteria-type;Hunteria;;;;;;;;;;;;;
+50;yes;Ha;Nq;APIACEAE;Hydrocotyle mannii-type;Hydrocotyle_mannii;0;0;0;0;0;3;0;0;0;0;0;0;0
+7.1;no;H;N;ACANTHACEAE;Hygrophila_type;Hygrophila;0;1;0;0;0;0;0;0;0;0;0;0;0
+218;yes;ST;A;HYMENOCARDIACEAE;Hymenocardia;Hymenocardia;;;;;;;;;;;;;
+341;yes;ST;A;RUBIACEAE;Hymenodictyon-type floribundum;Hymenodictyon_floribundum;;;;;;;;;;;;;
+96.2;no;N;A;CAESALPINIACEAE;Hymenostegia-type pellegrinii;Hymenostegia_pellegrinii;;;;;;;;;;;;;
+220;yes;HST;I;HYPERICACEAE;Hypericum;Hypericum;0;0;1;0;0;0;0;0;0;0;0;0;0
+300;yes;PA;PA;PALMAE;Hyphaene-type;Hyphaene;0;0;0;0;0;0;0;0;0;0;0;0;0
+7.2;yes;H(SL);I;ACANTHACEAE;Hypoestes-type;Hypoestes;0;0;1;0;0;0;0;0;0;0;2;0;0
+226;yes;H;N;LAMIACEAE;Hyptis pectinata-type;Hyptis_pectinata;;;;;;;;;;;;;
+223;yes;STL;AL;ICACINACEAE;Icacinaceae undiff.;Icacinaceae;;;;;;;;;;;;;
+61;yes;T(S);A;AQUIFOLIACEAE;Ilex mitis;Ilex_mitis;27;9;0;0;0;0;0;0;0;0;0;0;0
+75;yes;H(ep);N;BALSAMINACEAE;Impatiens;Impatiens;2;0;0;0;0;0;0;0;0;0;0;0;0
+197;yes;S;A;FABACEAE;Indigofera schimperi-type;Indigofera_schimperi;0;0;1;0;0;0;0;0;0;0;0;0;0
+149;yes;HS(L);I;CONVOLVULACEAE;Ipomoea-type;Ipomoea;1;0;0;0;0;0;0;0;0;0;0;0;0
+8;yes;HS;I;ACANTHACEAE;Isoglossa;Isoglossa;0;1;0;0;0;0;0;0;0;0;0;0;0
+288;yes;SL;AL;OLEACEAE;Jasminum abyssinicum-type;Jasminum_abyssinicum;0;0;0;0;0;0;0;0;0;0;0;0;0
+155;yes;T;A;CUPRESSACEAE;Juniperus-type procera;Juniperus_procera;3;1;5;3;1;4;3;0;5;0;2;0;2
+11;yes;H(S);I;ACANTHACEAE;Justicia-type;Justicia;;;;;;;;;;;;;
+9;yes;H;N;ACANTHACEAE;Justicia anselliana-type;Justicia_anselliana;0;0;0;0;0;0;0;0;0;0;1;0;0
+12;yes;H;N;ACANTHACEAE;Justicia-type flava;Justicia_flava;;;;;;;;;;;;;
+13;yes;S;A;ACANTHACEAE;Justicia-type odora;Justicia_odora;;;;;;;;;;;;;
+10;yes;X;X;ACANTHACEAE;Justicia striata-type;Justicia_striata;;;;;;;;;;;;;
+153;yes;H(L);NL;CUCURBITACEAE;Kedrostis foetidissima-type;Kedrostis_foetidissima;;;;;;;;;;;;;
+342;yes;SL;AL;RUBIACEAE;Keetia-type gueinzii;Keetia_gueinzii;;;;;;;;;;;;;
+80;yes;T;A;BIGNONIACEAE;Kigelia-type;Kigelia;;;;;;;;;;;;;
+343;yes;H;N;RUBIACEAE;Kohautia caespitosa-type;Kohautia_caespitosa;;;;;;;;;;;;;
+227;yes;HS;I;LAMIACEAE;Lamiaceae undiff.;Lamiaceae;0;0;0;0;2;0;0;0;0;0;0;0;0
+42;yes;ST;A;ANACARDIACEAE;Lannea-type;Lannea;;;;;;;;;;;;;
+408;yes;H;N;VERBENACEAE;Lantana-type ukambensis;Lantana_ukambensis;;;;;;;;;;;;;
+409;yes;S(L);AL;VERBENACEAE;Lantana-type viburnoides;Lantana_viburnoides;;;;;;;;;;;;;
+217.1;no;;;HALORRHAGACEAE  ;Laurembergia tetrandra ;Laurembergia_tetrandra ;0;0;0;0;0;0;0;0;0;0;0;0;0
+371;yes;ST;A;SAPINDACEAE;Lecaniodiscus/Aphania senegalensis;Lecaniodiscus/Aphania_senegalensis;;;;;;;;;;;;;
+228;yes;H;N;LAMIACEAE;Leonotis-type;Leonotis;;;;;;;;;;;;;
+229;yes;H;N;LAMIACEAE;Leucas-type;Leucas;;;;;;;;;;;;;
+232;yes;HT;I;LILIACEAE;Liliaceae undiff.;Liliaceae;;;;;;;;;;;;;
+22;yes;H(S);I;AIZOACEAE;Limeum;Limeum;;;;;;;;;;;;;
+233;no;H;N;LINACEAE;Linum;Linum;;;;;;;;;;;;;
+88;no;H;N;BORAGINACEAE;Lithospermum-type afromontanum;Lithospermum_afromontanum;;;;;;;;;;;;;
+234;yes;HST;I;LOBELIACEAE;Lobelia;Lobelia;;;;;;;;;;;;;
+235;yes;H;N;LOBELIACEAE;Lobelia anceps-type;Lobelia_anceps;;;;;;;;;;;;;
+236;yes;H;N;LOBELIACEAE;Lobelia rhynchopetalum-type;Lobelia_rhynchopetalum;;;;;;;;;;;;;
+285;no;T;A;OCHNACEAE;Lophira;Lophira;;;;;;;;;;;;;
+240;yes;S(p);Ap;LORANTHACEAE;Loranthaceae undiff.;Loranthaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+198;yes;H;N;FABACEAE;Lotus arabicus-type;Lotus_arabicus;;;;;;;;;;;;;
+385;yes;HS;I;SOLANACEAE;Lycium-type;Lycium;;;;;;;;;;;;;
+243;yes;HST;I;LYTHRACEAE;Lythraceae undiff.;Lythraceae;;;;;;;;;;;;;
+244;yes;Ha;Nq;LYTHRACEAE;Lythrum;Lythrum;0;0;0;0;0;0;0;0;0;0;0;0;0
+179;yes;ST;A;EUPHORBIACEAE;Macaranga-type;Macaranga;0;0;0;0;0;0;0;0;0;0;0;0;0
+110;yes;ST;A;CAPPARIDACEAE;Maerua-type crassifolia;Maerua_crassifolia;0;0;0;0;0;0;0;0;0;0;0;0;0
+278;yes;ST;A;MYRSINACEAE;Maesa lanceolata-type;Maesa_lanceolata;0;0;0;0;0;0;0;0;0;0;0;0;0
+246;yes;L(ST);AL;MALPIGHIACEAE;Malpighiaceae undiff.;Malpighiaceae;;;;;;;;;;;;;
+249;yes;H(ST);I;MALVACEAE;Malvaceae undiff.;Malvaceae;;;;;;;;;;;;;
+135;yes;T;A;CLUSIACEAE;Mammea africana-type;Mammea_africana;;;;;;;;;;;;;
+375;yes;T;A;SAPOTACEAE;Manilkara-type butugii;Manilkara_butugii;;;;;;;;;;;;;
+81;yes;T;A;BIGNONIACEAE;Markhamia zanzibarica-type;Markhamia_zanzibarica;;;;;;;;;;;;;
+123;yes;ST;A;CELASTRACEAE;Maytenus senegalensis-type;Maytenus_senegalensis;;;;;;;;;;;;;
+14;yes;HS;I;ACANTHACEAE;Megalochlamis revoluta-type;Megalochlamis_revoluta;;;;;;;;;;;;;
+252;no;H(STLep);I;MELASTOMATACEAE;Melastomataceae undiff.;Melastomataceae;;;;;;;;;;;;;
+254;yes;T;A;MELIACEAE;Melia-type volkensii;Melia_volkensii;;;;;;;;;;;;;
+15;yes;HS;I;ACANTHACEAE;Mellera-type lobulata;Mellera_lobulata;;;;;;;;;;;;;
+258.2;no;;;MENISPERMACEAE;Menispermaceae;Menispermaceae;1;0;0;0;0;0;0;0;0;0;0;0;0
+180;yes;H;N;EUPHORBIACEAE;Micrococca-type mercurialis;Micrococca_mercurialis;;;;;;;;;;;;;
+271;yes;T;A;MORACEAE;Milicia-type excelsa;Milicia_excelsa;;;;;;;;;;;;;
+199;yes;T;A;FABACEAE;Millettia-type ferruginea;Millettia_ferruginea;;;;;;;;;;;;;
+265;yes;Sa;A;MIMOSACEAE;Mimosa pigra-type;Mimosa_pigra;;;;;;;;;;;;;
+16;yes;HST;I;ACANTHACEAE;Mimulopsis-type solmsii;Mimulopsis solmsii;;;;;;;;;;;;;
+376;yes;T;A;SAPOTACEAE;Mimusops-type kummel;Mimusops_kummel;0;0;0;0;1;0;0;0;0;0;0;0;0
+154.1;no;HL;NL;CUCURBITACEAE;Momordica-type rostrata;Momordica_rostrata;;;;;;;;;;;;;
+268;yes;H(S);I;MONOCOTYLEDONEAE;Monocotyledoneae undiff.;Monocotyledoneae;;;;;;;;;;;;;
+272.1;yes;HST;I;MORACEAE;Moraceae undiff.;Moraceae;;;;;;;;;;;;;
+274;yes;ST;A;MORINGACEAE;Moringa;Moringa;;;;;;;;;;;;;
+275;no;X;X;MORINGACEAE;Moringaceae undiff.;Moringaceae;;;;;;;;;;;;;
+272.2;no;ST;A;MORACEAE;Musanga/Myrianthus;Musanga/Myrianthus;;;;;;;;;;;;;
+276;yes;ST;A;MYRICACEAE;Myrica;Myrica;40;18;13;1;2;0;1;2;2;0;3;0;0
+279;yes;HST;I;MYRSINACEAE;Myrsinaceae undiff.;Myrsinaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+280;yes;ST;A;MYRSINACEAE;Myrsine africana;Myrsine_africana;0;0;0;1;3;0;0;0;0;0;0;0;0
+239;yes;ST;A;LOGANIACEAE/SALVADORACEAE;Nuxia/Dobera;Nuxia/Dobera;1;0;0;0;0;1;0;0;0;2;0;0;1
+284;yes;HSTL;I;NYCTAGINACEAE;Nyctaginaceae undiff.;Nyctaginaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+230;yes;H;N;LAMIACEAE;Ocimum-type basilicum;Ocimum_basilicum;0;0;0;0;0;0;0;0;0;0;0;0;0
+231;yes;T(S);A;LAURACEAE;Ocotea;Ocotea;;;;;;;;;;;;;
+344;yes;H;N;RUBIACEAE;Oldenlandia-type;Oldenlandia;;;;;;;;;;;;;
+181;yes;ST;A;EUPHORBIACEAE;Oldfieldia-type;Oldfieldia;;;;;;;;;;;;;
+289;yes;ST;A;OLEACEAE;Olea;Olea;;;;;;;;;;;;;
+290;yes;ST;A;OLEACEAE;Olea capensis-type;Olea_capensis;1;8;3;3;0;0;0;0;0;0;1;0;0
+291;yes;ST;A;OLEACEAE;Olea europaea-type;Olea_europaea;2;0;0;0;3;5;0;0;0;0;7;0;0
+292;yes;STL;AL;OLEACEAE;Oleaceae undiff.;Oleaceae;;;;;;;;;;;;;
+294;no;ST;A;OLINIACEAE;Olinia;Olinia;;;;;;;;;;;;;
+295;yes;Ha;Nq;ONAGRACEAE;Onagraceae undiff.;Onagraceae;0;0;0;0;0;0;0;0;6;0;0;0;0
+58;yes;SL;AL;APOCYNACEAE;Oncinotis-type nitida;Oncinotis_nitida;;;;;;;;;;;;;
+200;yes;ST;A;FABACEAE;Ormocarpum-type trichocarpum;Ormocarpum_trichocarpum;;;;;;;;;;;;;
+364;yes;ST;A;SANTALACEAE;Osyris;Osyris;;;;;;;;;;;;;
+217.3;no;H;Nq;HYDROCHARITACEAE;Ottelia-type;Ottelia;0;0;0;0;0;0;0;0;0;0;0;0;0
+297;no;H;N;OXALIDACEAE;Oxalis;Oxalis;;;;;;;;;;;;;
+313;yes;H(S);I;POLYGONACEAE;Oxygonum;Oxygonum;;;;;;;;;;;;;
+43;yes;ST;A;ANACARDIACEAE;Ozoroa-type insignis;Ozoroa_insignis;;;;;;;;;;;;;
+372;yes;T;A;SAPINDACEAE;Pappea capensis;Pappea_capensis;;;;;;;;;;;;;
+130;yes;ST;A;CHRYSOBALANACEAE;Parinari-type;Parinari;;;;;;;;;;;;;
+97;yes;ST;A;CAESALPINIACEAE;Parkinsonia-type;Parkinsonia;;;;;;;;;;;;;
+116;yes;H;N;CARYOPHYLLACEAE;Paronychia-type;Paronychia;;;;;;;;;;;;;
+373;no;L;L;SAPINDACEAE;Paullinia pinnata;Paullinia_pinnata;;;;;;;;;;;;;
+345;yes;ST(L);AL;RUBIACEAE;Pavetta abyssinica-type;Pavetta_abyssinica;;;;;;;;;;;;;
+346;yes;ST;A;RUBIACEAE;Pavetta gardeniifolia-type;Pavetta_gardeniifolia;;;;;;;;;;;;;
+136;no;T;A;CLUSIACEAE;Pentadesma;Pentadesma;;;;;;;;;;;;;
+347;no;H;N;RUBIACEAE;Pentanisia-type;Pentanisia;;;;;;;;;;;;;
+17;yes;H;N;ACANTHACEAE;Phaulopsis-type imbricata;Phaulopsis_imbricata;;;;;;;;;;;;;
+301;yes;PA;PA;PALMAE;Phoenix reclinata-type;Phoenix_reclinata;;;;;;;;;;;;;
+182;yes;H;N;EUPHORBIACEAE;Phyllanthus-type boehmii;Phyllanthus_boehmii;;;;;;;;;;;;;
+183;yes;ST;A;EUPHORBIACEAE;Phyllanthus-type engleri;Phyllanthus_engleri;;;;;;;;;;;;;
+184;yes;H;N;EUPHORBIACEAE;Phyllanthus-type maderaspatensis;Phyllanthus_maderaspatensis;;;;;;;;;;;;;
+185;yes;ST(L);AL;EUPHORBIACEAE;Phyllanthus-type muellerianus;Phyllanthus_muellerianus;;;;;;;;;;;;;
+186;yes;ST;A;EUPHORBIACEAE;Phyllanthus-type reticulatus;Phyllanthus_reticulatus;;;;;;;;;;;;;
+303;yes;HST(L);I;PHYTOLACCACEAE;Phytolacca;Phytolacca;;;;;;;;;;;;;
+98;yes;T;A;CAESALPINIACEAE;Piliostigma;Piliostigma;;;;;;;;;;;;;
+304;yes;T;A;PINACEAE;Pinus;Pinus;;;;;;;;;;;;;
+305;no;HepSL;I;PIPERACEAE;Piperaceae undiff.;Piperaceae;;;;;;;;;;;;;
+44;yes;ST;A;ANACARDIACEAE;Pistacia;Pistacia;;;;;;;;;;;;;
+306;yes;ST;A;PITTOSPORACEAE;Pittosporum abyssinicum-type;Pittosporum_abyssinicum;;;;;;;;;;;;;
+307;yes;H;N;PLANTAGINACEAE;Plantago;Plantago;0;0;0;0;0;0;0;0;1;0;0;0;0
+348;yes;HS;I;RUBIACEAE;Pentas-type;Plantas;;;;;;;;;;;;;
+241;yes;S(p);Ap;LORANTHACEAE;Plicosepalus-type sagittifolius;Plicosepalus_sagittifolius;;;;;;;;;;;;;
+309;yes;H(T);N;POACEAE;Poaceae undiff.;Poaceae;682;352;502;608;392;296;188;535;270;227;856;90;253
+310;yes;ST;A;PODOCARPACEAE;Podocarpus;Podocarpus;8;0;0;0;0;1;0;0;0;0;0;0;0
+117;no;H;N;CARYOPHYLLACEAE;Polycarpaea-type;Polycarpaea;;;;;;;;;;;;;
+312;yes;HS;I;POLYGALACEAE;Polygala-type;Polygala;;;;;;;;;;;;;
+314;yes;H;N;POLYGONACEAE;Polygonum plebeium-type;Polygonum_plebeium;;;;;;;;;;;;;
+315;yes;Ha;Nq;POLYGONACEAE;Polygonum senegalense-type;Polygonum_senegalense;0;0;0;2;1;0;0;0;1;1;0;11;4
+64;yes;T;A;ARALIACEAE;Polyscias fulva-type;Polyscias_fulva;;;;;;;;;;;;;
+317;yes;H(ST);I;PORTULACACEAE;Portulacaceae undiff.;Portulacaceae;;;;;;;;;;;;;
+318;yes;Ha;Nq;POTAMOGETONACEAE;Potamogeton;Potamogeton;0;0;0;0;0;0;0;0;0;0;0;0;0
+377;yes;ST;A;SAPOTACEAE;Pouteria-type;Pouteria;;;;;;;;;;;;;
+320;yes;H(S);N;PRIMULACEAE;Primulaceae undiff.;Primulaceae;;;;;;;;;;;;;
+266;no;X;X;MIMOSACEAE;Prosopis-type;Prosopis;;;;;;;;;;;;;
+267;no;T;A;MIMOSACEAE;Prosopis-type africana;Prosopis_africana;;;;;;;;;;;;;
+321;yes;ST;A;PROTEACEAE;Protea-type;Protea;;;;;;;;;;;;;
+331;yes;T;A;ROSACEAE;Prunus africana-type;Prunus_africana;2;0;0;0;0;0;0;0;0;0;0;0;0
+36;yes;H;N;AMARANTHACEAE;Psilotrichum-type elliottii;Psilotrichum_elliottii;;;;;;;;;;;;;
+221;yes;ST;A;HYPERICACEAE;Psorospermum;Psorospermum;;;;;;;;;;;;;
+349;no;S;A;RUBIACEAE;Psychotria amboniana-type;Psychotria_amboniana;;;;;;;;;;;;;
+350;yes;STL;AL;RUBIACEAE;Psydrax-type schimperiana;Psydrax_schimperiana;;;;;;;;;;;;;
+201;yes;T;A;FABACEAE;Pterocarpus-type lucens;Pterocarpus_lucens;;;;;;;;;;;;;
+302;yes;H(S);I;PEDALIACEAE;Pterodiscus;Pterodiscus;;;;;;;;;;;;;
+99;yes;SL;AL;CAESALPINIACEAE;Pterolobium stellatum;Pterolobium_stellatum;;;;;;;;;;;;;
+37;yes;H(L);N;AMARANTHACEAE;Pupalia-type lappacea;Pupalia_lappacea;;;;;;;;;;;;;
+325;yes;H(a);N;RANUNCULACEAE;Ranunculus-type;Ranunculus;;;;;;;;;;;;;
+323;yes;Ha;Nq;RANUNCULACEAE;Ranunculus multifidus-type;Ranunculus_multifidus;;;;;;;;;;;;;
+324;yes;Ha;Nq;RANUNCULACEAE;Ranunculus oreophytus-type;Ranunculus_oreophytus;;;;;;;;;;;;;
+281;yes;T(S);A;MYRSINACEAE;Rapanea melanophloeos-type;Rapanea_melanophloeos;;;;;;;;;;;;;
+59;yes;ST;A;APOCYNACEAE;Rauvolfia;Rauvolfia;;;;;;;;;;;;;
+327;yes;H(S);I;RESEDACEAE;Resedaceae undiff.;Resedaceae;0;0;1;0;0;0;0;0;0;0;0;0;0
+328;yes;STL;AL;RHAMNACEAE;Rhamnaceae undiff.;Rhamnaceae;;;;;;;;;;;;;
+45;yes;ST;A;ANACARDIACEAE;Rhus-type vulgaris;Rhus_vulgaris;0;0;0;0;0;0;0;0;0;0;0;0;0
+202;yes;H;NL;FABACEAE;Rhynchosia-type malacophylla;Rhynchosia_malacophylla;0;0;0;0;0;0;0;0;0;0;0;0;0
+187;yes;H;NG;EUPHORBIACEAE;Ricinus communis;Ricinus_communis;;;;;;;;;;;;;
+332;yes;SL;AL;ROSACEAE;Rosa abyssinica-type;Rosa_abyssinica;0;0;0;0;1;0;0;0;0;0;0;0;0
+333;no;HSTL;I;ROSACEAE;Rosaceae undiff.;Rosaceae;;;;;;;;;;;;;
+352;yes;H;N;RUBIACEAE;Rubia-type cordifolia;Rubia_cordifolia;0;0;0;0;0;0;0;0;0;0;0;0;0
+351;yes;HSTL;I;RUBIACEAE;Rubiaceae undiff.;Rubiaceae;0;0;0;0;0;0;0;0;0;0;0;0;0
+334;yes;S(L);AL;ROSACEAE;Rubus pinnatus-type;Rubus_pinnatus;;;;;;;;;;;;;
+18;yes;HS;I;ACANTHACEAE;Ruellia-type patula;Ruellia_patula;;;;;;;;;;;;;
+316;yes;HS;I;POLYGONACEAE;Rumex;Rumex;0;0;0;0;1;0;1;0;0;0;0;0;0
+357;no;Ha;Nq;RUPPIACEAE;Ruppia maritima;Ruppia_maritima;;;;;;;;;;;;;
+360;yes;ST(HL);AL;RUTACEAE;Rutaceae undiff.;Rutaceae;;;;;;;;;;;;;
+19;yes;S;A;ACANTHACEAE;Ruttya-type fruticosa;Ruttya_fruticosa;;;;;;;;;;;;;
+363;yes;ST;A;SALICACEAE;Salix;Salix;;;;;;;;;;;;;
+378;yes;ST;AL;SAPOTACEAE;Sapotaceae undiff.;Sapotaceae;0;1;0;0;0;0;0;0;0;0;0;0;0
+158;yes;H;N;DIPSACACEAE;Scabiosa-type;Scabiosa;;;;;;;;;;;;;
+65;yes;T(ep);A;ARALIACEAE;Schefflera abyssinica-type;Schefflera_abyssinica;;;;;;;;;;;;;
+66;yes;STL(ep);AL;ARALIACEAE;Schefflera myriantha-type;Schefflera_myriantha;;;;;;;;;;;;;
+67;yes;STL(ep);AL;ARALIACEAE;Schefflera volkensii-type;Schefflera_volkensii;;;;;;;;;;;;;
+293;no;T(S);A;OLEACEAE;Schrebera alata-type;Schrebera_alata;;;;;;;;;;;;;
+118;yes;X;X;CARYOPHYLLACEAE;Scleranthus-type orientalis;Scleranthus_orientalis;;;;;;;;;;;;;
+382;no;HS(T);I;SCROPHULARIACEAE;Scrophulariaceae undiff.;Scrophulariaceae;;;;;;;;;;;;;
+212;yes;H;N;GENTIANACEAE;Sebaea brachyphylla-type;Sebaea_brachyphylla;;;;;;;;;;;;;
+38;yes;L;L;AMARANTHACEAE;Sericostachys-type scandens;Sericostachys_scandens;;;;;;;;;;;;;
+203;yes;STa;A;FABACEAE;Sesbania sesban;Sesbania_sesban;;;;;;;;;;;;;
+188;yes;ST;A;EUPHORBIACEAE;Shirakia-type elliptica;Shirakia_elliptica;;;;;;;;;;;;;
+250;yes;H(S);I;MALVACEAE;Sida;Sida;;;;;;;;;;;;;
+379;yes;ST;A;SAPOTACEAE;Sideroxylon-type oxyacantha;Sideroxylon_oxyacantha;0;0;0;0;0;0;0;0;0;0;0;0;0
+119;no;H;N;CARYOPHYLLACEAE;Silene-type;Silene;1;0;0;0;0;0;0;0;0;0;0;0;0
+386;yes;HST;I;SOLANACEAE;Solanum-type;Solanum;0;0;0;1;0;0;0;0;0;0;0;0;0
+46;yes;T;A;ANACARDIACEAE;Sorindeia-type madagascariensis;Sorindeia_madagascariensis;;;;;;;;;;;;;
+353;yes;H;N;RUBIACEAE;Spermacoce-type;Spermacoce;;;;;;;;;;;;;
+311;yes;Ha;Nq;PODOSTEMACEAE;Sphaerotylax abyssinica-type;Sphaerotylax_abyssinica;;;;;;;;;;;;;
+51;yes;HST;I;APIACEAE;Steganotaenia-type araliacea;Steganotaenia_araliacea;;;;;;;;;;;;;
+120;yes;H(L);N;CARYOPHYLLACEAE;Stellaria mannii-type;Stellaria_mannii;;;;;;;;;;;;;
+259;yes;HL;NL;MENISPERMACEAE;Stephania-type abyssinica;Stephania_abyssinica;;;;;;;;;;;;;
+390;yes;T;A;STERCULIACEAE;Sterculia-type;Sterculia;;;;;;;;;;;;;
+389;no;ST(HL);I;STERCULIACEAE;Sterculiaceae undiff.;Sterculiaceae;;;;;;;;;;;;;
+383;yes;H(p);N;SCROPHULARIACEAE;Striga-type hermonthica;Striga_hermonthica;;;;;;;;;;;;;
+60;yes;S;A;APOCYNACEAE;Strophanthus-type mirabilis;Strophanthus_mirabilis;;;;;;;;;;;;;
+129;yes;S;A;CHENOPODIACEAE;Suaeda monoica-type;Suaeda_monoica;;;;;;;;;;;;;
+214;yes;H;N;GENTIANACEAE;Swertia-type kilimandscharica;Swertia_kilimandscharica;;;;;;;;;;;;;
+213;yes;H;N;GENTIANACEAE;Swertia usambarensis-type;Swertia_usambarensis;;;;;;;;;;;;;
+68;yes;L;L;ASCLEPIADACEAE;Tacazzea-type apiculata;Tacazzea_apiculata;0;0;0;0;0;1;0;0;0;0;0;0;0
+391;yes;ST;A;TAMARICACEAE;Tamarix;Tamarix;0;0;0;0;1;0;0;0;0;0;0;0;0
+242;yes;S(p);Ap;LORANTHACEAE;Tapinanthus-type globiferus;Tapinanthus_globiferus;;;;;;;;;;;;;
+157;yes;ST;A;DICHAPETALACEAE;Tapura fischeri-type;Tapura_fischeri;;;;;;;;;;;;;
+354;yes;ST;A;RUBIACEAE;Tarenna-type graveolens;Tarenna_graveolens;;;;;;;;;;;;;
+361;yes;ST;A;RUTACEAE;Teclea-type;Teclea;2;0;0;0;0;0;0;0;0;0;0;0;0
+204;yes;HS;I;FABACEAE;Tephrosia;Tephrosia;;;;;;;;;;;;;
+189;yes;STL;A;EUPHORBIACEAE;Tetrorchidium didymostemon-type;Tetrorchidium_didymostemon;;;;;;;;;;;;;
+326;yes;H;N;RANUNCULACEAE;Thalictrum;Thalictrum;;;;;;;;;;;;;
+394;no;H;N;THYMELAEACEAE;Thymelaea;Thymelaea;1;0;0;0;0;0;0;0;0;0;0;0;0
+398;yes;ST(HL);I;TILIACEAE;Tiliaceae undiff.;Tiliaceae;;;;;;;;;;;;;
+260;yes;L;L;MENISPERMACEAE;Tiliacora-type funifera;Tiliacora_funifera;;;;;;;;;;;;;
+402;yes;S(T);A;ULMACEAE;Trema-type orientalis;Trema_orientalis;;;;;;;;;;;;;
+416;yes;H;N;ZYGOPHYLLACEAE;Tribulus;Tribulus;0;0;0;0;0;0;0;1;0;0;0;0;1
+255;yes;T;A;MELIACEAE;Trichilia-type emetica;Trichilia_emetica;;;;;;;;;;;;;
+217.2;yes;ST;A;HAMAMELIDACEAE;Trichocladus ellipticus-type;Trichocladus_ellipticus;;;;;;;;;;;;;
+205;yes;H;N;FABACEAE;Trifolium-type acaule;Trifolium_acaule;;;;;;;;;;;;;
+273;yes;T;A;MORACEAE;Trilepisium-type madagascariensis;Trilepisium_madagascariensis;0;0;0;0;0;0;0;0;0;0;0;0;0
+73;yes;HS(TL);I;ASTERACEAE;Tubuliflorae;Tubuliflorae;8;13;32;12;2;18;5;3;2;5;22;0;3
+399;yes;Ha;Nq;TYPHACEAE;Typha;Typha;1;8;62;296;133;33;152;40;224;407;22;110;427
+121;yes;H;N;CARYOPHYLLACEAE;Uebelinia-type abyssinica;Uebelinia_abyssinica;;;;;;;;;;;;;
+355;yes;L;L;RUBIACEAE;Uncaria-type africana;Uncaria_africana;;;;;;;;;;;;;
+403;yes;H;N;URTICACEAE;Urticaceae D-type;Urticaceae_D;;;;;;;;;;;;;
+404;yes;H;N;URTICACEAE;Urticaceae P-type;Urticaceae_P;;;;;;;;;;;;;
+405;yes;L;L;URTICACEAE;Urticaceae Q-type;Urticaceae_Q;13;4;0;0;0;1;0;0;1;0;0;0;1
+406;yes;HSL;I;URTICACEAE;Urticaceae T-type;Urticaceae_T;;;;;;;;;;;;;
+407;yes;H;N;VAHLIACEAE;Vahlia somalensis-type;Vahlia_somalensis;;;;;;;;;;;;;
+356;yes;ST;A;RUBIACEAE;Vangueria-type madagascariensis;Vangueria_madagascariensis;;;;;;;;;;;;;
+206;yes;L;L;FABACEAE;Vatovaea-type pseudolablab;Vatovaea_pseudolablab;;;;;;;;;;;;;
+410.1;no;HSTL;I;VERBENACEAE;Verbenaceae undiff.;Verbenaceae;;;;;;;;;;;;;
+207;yes;HL;NL;FABACEAE;Vicia;Vicia;;;;;;;;;;;;;
+413;yes;HSL;I;VITACEAE;Vitaceae undiff.;Vitaceae;;;;;;;;;;;;;
+410.2;no;ST(L);AL;VERBENACEAE;Vitex-type;Vitex;;;;;;;;;;;;;
+39;yes;H;N;AMARANTHACEAE;Volkensinia prostrata;Volkensinia_prostrata;;;;;;;;;;;;;
+102;yes;X;X;CANELLACEAE;Warburgia-type;Warburgia;;;;;;;;;;;;;
+286;yes;ST(p);A;OLACACEAE;Ximenia;Ximenia;;;;;;;;;;;;;
+374;yes;T;A;SAPINDACEAE;Zanha golungensis-type;Zanha_golungensis;;;;;;;;;;;;;
+362;yes;ST(L);AL;RUTACEAE;Zanthoxylum/Fagaropsis;Zanthoxylum/Fagaropsis;0;0;0;0;0;0;0;0;0;0;0;0;0
+417;yes;HS;I;ZYGOPHYLLACEAE;Zygophyllaceae undiff.;Zygophyllaceae;;;;;;;;;;;;;
+418;yes;H;N;ZYGOPHYLLACEAE;Zygophyllum simplex-type;Zygophyllum_simplex;;;;;;;;;;;;;
