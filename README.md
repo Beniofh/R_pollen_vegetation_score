@@ -14,7 +14,7 @@ The GitHub repository consists of 3 main directories.
 
 - `data`: this directory contains the datasets used in the article in csv format (**separator ";"**). More specifically, there are two csv files containing the data from **Table S2** and **Table S5** in the article.  
 - `scr`: this directory contains the R scripts. The scripts to be run are those beginning with "main". The comments at the beginning of each script include: an explanation of what the script does, a presentation of the input data, a presentation of the adjustable parameters and a list of the data and images produced by the script. In the scr folder, there is also the `Functions` directory, which contains custom functions used by the "main" scripters.  
-- `output`: This is the folder in which all script output is stored by default.  
+- `output`: this is the folder in which all script output is stored by default.  
 
 ## Credits
 
