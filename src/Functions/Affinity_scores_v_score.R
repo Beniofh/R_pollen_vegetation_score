@@ -1,5 +1,6 @@
-# This function creates a matrix of the affinity values (A-values) and saves it in ./output/matix_A_values.csv. 
-# This matrix contains affinity value of each pollen type for each vegetation group use.
+# This function creates a matrix of the affinity values (A-values) and saves it in ./output/modern_matix_A_values_X1_X2.csv or 
+# ./output/fossil_matix_A_values_X1_X2.csv where X1=value of data_type and X2=value of vegetation_set. This matrix contains affinity 
+# value of each pollen type for each vegetation group use.
 #
 # Arguments:
 #   TAB : the list of pollen counts for all the sites associated with the vegetation groups used, 
@@ -10,11 +11,16 @@
 #   sample_type: to find out whether the data in the data frame to be converted (TAB) has been imported using the 
 #                Import_modern_data_v_score function with the "fossil" or "modern" argument in order to adapt the 
 #                processing.
+#   data_type: the type of data to be output  ("1"= relative abundance, "2"=relative abundance scale, "3"=presence/absence)
+#   vegetation_set: sets of vegetation groups to be used to calculate the V score
+#       -> 1= the 18 vegetation groups of non-dynamic depositional environments and the 6 vegetation groups of dynamic depositional environments
+#       -> 2= the 18 vegetation groups of non-dynamic depositional environments and the vegetation groups We/Bd/S-river or Wcd/Fb/Wd-river
+#       -> 3= only the 6 vegetation groups of dynamic depositional environments
 #
 # Return:
 #   The matrix of A-values in the form of a Data Frame
 #
-Affinity_scores_v_score <- function(TAB, T_val, lev_V_groups, sample_type){
+Affinity_scores_v_score <- function(TAB, T_val, lev_V_groups, sample_type, data_type, vegetation_set){
   
   if (sample_type=="modern") {
     col_a=ncol(TAB)-1
@@ -120,9 +126,9 @@ Affinity_scores_v_score <- function(TAB, T_val, lev_V_groups, sample_type){
   colnames(A_val)<-lev_V_groups
   # save as .csv
   if (sample_type=="modern") {
-    write.table(A_val, "output/matix_A_values.csv", row.names=TRUE, col.names = NA, sep=";",dec=".", na=" ")
+    write.table(A_val, paste0("output/modern_matix_A_values_", vegetation_set, "_", data_type,  ".csv"), row.names=TRUE, col.names = NA, sep=";",dec=".", na=" ")
   } else if (sample_type=="fossil") {
-    write.table(A_val, "output/matix_A_values_identification.csv", row.names=TRUE, col.names = NA, sep=";",dec=".", na=" ")
+    write.table(A_val, paste0("output/fossil_matix_A_values_", vegetation_set, "_", data_type, ".csv"), row.names=TRUE, col.names = NA, sep=";",dec=".", na=" ")
   }
   # results
   return(A_val)

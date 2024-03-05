@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+output/*.csv
+output/*.png
+data/identification*.csv
+src/main_3_fossil_identifiaction.R
